@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cities>
+  <city name="London" type="normal">
+    <coordinate name="x" value="4" />
+    <coordinate name="y" value="4" />
+  </city>
+  <city name="Berlin" type="normal">
+    <coordinate name="x" value="0" />
+    <coordinate name="y" value="0" />
+    <coordinate name="x2" value="0" />
+    <coordinate name="y2" value="2" />
+  </city>
+</cities>

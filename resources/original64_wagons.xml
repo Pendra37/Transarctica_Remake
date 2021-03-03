@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wagons>
+  <wagon name="Merchandise">
+    <screen_name>Merchandise</screen_name>
+    <width>33</width>
+    <height>10</height>
+    <net_weight>45</net_weight>
+    <capacity>20</capacity>
+    <storage>goods</storage>
+    <units> tons </units>
+    <special>N</special>
+    <critical>N</critical>
+    <rarity>1</rarity>
+    <avg_price>250</avg_price>
+    <display_image>merchandise</display_image>
+    <combat_image>merchandise</combat_image>
+    <desc>Merchandise</desc>
+  </wagon>
+  <wagon name="XL Merchandise">
+    <screen_name>XL Merchandise</screen_name>
+    <width>40</width>
+    <height>10</height>
+    <net_weight>55</net_weight>
+    <capacity>40</capacity>
+    <storage>goods</storage>
+    <units> tons </units>
+    <special>N</special>
+    <critical>N</critical>
+    <rarity>2</rarity>
+    <avg_price>400</avg_price>
+    <display_image>merchandise_xl</display_image>
+    <combat_image>merchandise_xl</combat_image>
+    <desc>XL Merchandise</desc>
+  </wagon>
+  <wagon name="Barracks">
+    <screen_name>Barracks</screen_name>
+    <width>38</width>
+    <height>10</height>
+    <net_weight>80</net_weight>
+    <capacity>50</capacity>
+    <storage>soldiers</storage>
+    <units> </units>
+    <special>N</special>
+    <critical>N</critical>
+    <rarity>1</rarity>
+    <avg_price>300</avg_price>
+    <display_image>barracks</display_image>
+    <combat_image>barracks</combat_image>
+    <desc>Barracks</desc>
+  </wagon>
+  <wagon name="XL Barracks">
+    <screen_name>XL Barracks</screen_name>
+    <width>50</width>
+    <height>12.5</height>
+    <net_weight>100</net_weight>
+    <capacity>80</capacity>
+    <storage>soldiers</storage>
+    <units> </units>
+    <special>N</special>
+    <critical>N</critical>
+    <rarity>3</rarity>
+    <avg_price>450</avg_price>
+    <display_image>barracks_xl</display_image>
+    <combat_image>barracks_xl</combat_image>
+    <desc>XL Barracks</desc>
+  </wagon>
+  <wagon name="Tender">
+    <screen_name>Tender</screen_name>
+    <width>26</width>
+    <height>10</height>
+    <net_weight>50</net_weight>
+    <capacity>5000</capacity>
+    <storage>coal</storage>
+    <units> baks </units>
+    <special>N</special>
+    <critical>N</critical>
+    <rarity>1</rarity>
+    <avg_price>100</avg_price>
+    <display_image>tender</display_image>
+    <combat_image>tender</combat_image>
+    <desc>Tender</desc>
+  </wagon>
+  <wagon name="Cannon">
+    <screen_name>Cannon</screen_name>
+    <width>40</width>
+    <height>8</height>
+    <net_weight>100</net_weight>
+    <capacity>100</capacity>
+    <storage>shells</storage>
+    <units> </units>
+    <special>N</special>
+    <critical>N</critical>
+    <rarity>3</rarity>
+    <avg_price>500</avg_price>
+    <display_image>cannon</display_image>
+    <combat_image>cannon</combat_image>
+    <desc>Cannon</desc>
+  </wagon>
+  <wagon name="Machine gun">
+    <screen_name>Machine gun</screen_name>
+    <width>40</width>
+    <height>11</height>
+    <net_weight>40</net_weight>
+    <capacity>100</capacity>
+    <storage>belts</storage>
+    <units> </units>
+    <special>N</special>
+    <critical>N</critical>
+    <rarity>2</rarity>
+    <avg_price>500</avg_price>
+    <display_image>machinegun</display_image>
+    <combat_image>machinegun</combat_image>
+    <desc>Machine gun</desc>
+  </wagon>
+  <wagon name="Prison">
+    <screen_name>Prison</screen_name>
+    <width>40</width>
+    <height>11</height>
+    <net_weight>65</net_weight>
+    <capacity>60</capacity>
+    <storage>slaves</storage>
+    <units> </units>
+    <special>N</special>
+    <critical>N</critical>
+    <rarity>1</rarity>
+    <avg_price>150</avg_price>
+    <display_image>prison</display_image>
+    <combat_image>prison</combat_image>
+    <desc>Prison</desc>
+  </wagon>
+  <wagon name="Alcatraz">
+    <screen_name>Alcatraz</screen_name>
+    <width>49</width>
+    <height>14</height>
+    <net_weight>85</net_weight>
+    <capacity>100</capacity>
+    <storage>slaves</storage>
+    <units> </units>
+    <special>N</special>
+    <critical>N</critical>
+    <rarity>3</rarity>
+    <avg_price>250</avg_price>
+    <display_image>alcatraz</display_image>
+    <combat_image>alcatraz</combat_image>
+    <desc>Alcatraz</desc>
+  </wagon>
+  <wagon name="Livestock">
+    <screen_name>Livestock</screen_name>
+    <width>43</width>
+    <height>14</height>
+    <net_weight>60</net_weight>
+    <capacity>3</capacity>
+    <storage>mammoths</storage>
+    <units> </units>
+    <special>N</special>
+    <critical>N</critical>
+    <rarity>2</rarity>
+    <avg_price>300</avg_price>
+    <display_image>livestock</display_image>
+    <combat_image>livestock</combat_image>
+    <desc>Livestock</desc>
+  </wagon>
+  <wagon name="Harpoon">
+    <screen_name>Harpoon</screen_name>
+    <width>25</width>
+    <height>12</height>
+    <net_weight>20</net_weight>
+    <capacity>1</capacity>
+    <storage>harpoon</storage>
+    <units> </units>
+    <special>N</special>
+    <critical>N</critical>
+    <rarity>Baku</rarity>
+    <avg_price>600</avg_price>
+    <display_image>harpoon</display_image>
+    <combat_image>harpoon</combat_image>
+    <desc>Harpoon</desc>
+  </wagon>
+  <wagon name="Refrigerator">
+    <screen_name>Refrigerator</screen_name>
+    <width>40</width>
+    <height>11</height>
+    <net_weight>90</net_weight>
+    <capacity>20</capacity>
+    <storage>perishable</storage>
+    <units> tons </units>
+    <special>N</special>
+    <critical>N</critical>
+    <rarity>3</rarity>
+    <avg_price>300</avg_price>
+    <display_image>refrigerator</display_image>
+    <combat_image>refrigerator</combat_image>
+    <desc>Refrigerator</desc>
+  </wagon>
+  <wagon name="Bio-greenhouse">
+    <screen_name>Bio-greenhouse</screen_name>
+    <width>40</width>
+    <height>13</height>
+    <net_weight>40</net_weight>
+    <capacity>10</capacity>
+    <storage>plants</storage>
+    <units> tons </units>
+    <special>N</special>
+    <critical>N</critical>
+    <rarity>3</rarity>
+    <avg_price>450</avg_price>
+    <display_image>greenhouse</display_image>
+    <combat_image>greenhouse</combat_image>
+    <desc>Bio-greenhouse</desc>
+  </wagon>
+  <wagon name="Tanker">
+    <screen_name>Tanker</screen_name>
+    <width>40</width>
+    <height>14</height>
+    <net_weight>40</net_weight>
+    <capacity>20</capacity>
+    <storage>liquids</storage>
+    <units>k liters </units>
+    <special>N</special>
+    <critical>N</critical>
+    <rarity>1</rarity>
+    <avg_price>400</avg_price>
+    <display_image>tanker</display_image>
+    <combat_image>tanker</combat_image>
+    <desc>Tanker</desc>
+  </wagon>
+  <wagon name="XL Tanker">
+    <screen_name>XL Tanker</screen_name>
+    <width>40</width>
+    <height>14</height>
+    <net_weight>55</net_weight>
+    <capacity>40</capacity>
+    <storage>liquids</storage>
+    <units>k liters </units>
+    <special>N</special>
+    <critical>N</critical>
+    <rarity>3</rarity>
+    <avg_price>700</avg_price>
+    <display_image>tanker_xl</display_image>
+    <combat_image>tanker_xl</combat_image>
+    <desc>XL Tanker</desc>
+  </wagon>
+  <wagon name="Observation box">
+    <screen_name>Observation box</screen_name>
+    <width>31</width>
+    <height>14</height>
+    <net_weight>100</net_weight>
+    <capacity>1</capacity>
+    <storage>telescopes</storage>
+    <units> </units>
+    <special>N</special>
+    <critical>N</critical>
+    <rarity>2</rarity>
+    <avg_price>700</avg_price>
+    <display_image>observation_box</display_image>
+    <combat_image>observation_box</combat_image>
+    <desc>Observation box</desc>
+  </wagon>
+  <wagon name="Observatory">
+    <screen_name>Observatory</screen_name>
+    <width>23</width>
+    <height>11</height>
+    <net_weight>110</net_weight>
+    <capacity>3</capacity>
+    <storage>telescopes</storage>
+    <units> </units>
+    <special>N</special>
+    <critical>N</critical>
+    <rarity>4</rarity>
+    <avg_price>1500</avg_price>
+    <display_image>observatory</display_image>
+    <combat_image>observatory</combat_image>
+    <desc>Observatory</desc>
+  </wagon>
+  <wagon name="Spy">
+    <screen_name>Spy</screen_name>
+    <width>41</width>
+    <height>14</height>
+    <net_weight>50</net_weight>
+    <capacity>5</capacity>
+    <storage>spies</storage>
+    <units> </units>
+    <special>N</special>
+    <critical>N</critical>
+    <rarity>3</rarity>
+    <avg_price>500</avg_price>
+    <display_image>spy</display_image>
+    <combat_image>spy</combat_image>
+    <desc>Spy</desc>
+  </wagon>
+  <wagon name="Missile launcher">
+    <screen_name>Missile launcher</screen_name>
+    <width>46</width>
+    <height>13</height>
+    <net_weight>120</net_weight>
+    <capacity>0</capacity>
+    <storage>NA</storage>
+    <units> </units>
+    <special>N</special>
+    <critical>N</critical>
+    <rarity>Moscow</rarity>
+    <avg_price>2000</avg_price>
+    <display_image>missile_launcher</display_image>
+    <combat_image>missile_launcher</combat_image>
+    <desc>Missile launcher</desc>
+  </wagon>
+  <wagon name="Boiler">
+    <screen_name>Boiler</screen_name>
+    <width>53</width>
+    <height>14</height>
+    <net_weight>200</net_weight>
+    <capacity>0</capacity>
+    <storage>NA</storage>
+    <units> </units>
+    <special>N</special>
+    <critical>N</critical>
+    <rarity>Omsk</rarity>
+    <avg_price>1500</avg_price>
+    <display_image>boiler</display_image>
+    <combat_image>boiler</combat_image>
+    <desc>Boiler</desc>
+  </wagon>
+  <wagon name="Crane">
+    <screen_name>Crane</screen_name>
+    <width>40</width>
+    <height>14</height>
+    <net_weight>60</net_weight>
+    <capacity>1</capacity>
+    <storage>crane</storage>
+    <units> </units>
+    <special>N</special>
+    <critical>N</critical>
+    <rarity>Ruhr</rarity>
+    <avg_price>1300</avg_price>
+    <display_image>crane</display_image>
+    <combat_image>crane</combat_image>
+    <desc>Crane</desc>
+  </wagon>
+  <wagon name="Drill">
+    <screen_name>Drill</screen_name>
+    <width>30</width>
+    <height>13</height>
+    <net_weight>105</net_weight>
+    <capacity>1</capacity>
+    <storage>drill</storage>
+    <units> </units>
+    <special>N</special>
+    <critical>N</critical>
+    <rarity>Rum</rarity>
+    <avg_price>800</avg_price>
+    <display_image>drill</display_image>
+    <combat_image>drill</combat_image>
+    <desc>Drill</desc>
+  </wagon>
+  <wagon name="Locomotive">
+    <screen_name>Locomotive</screen_name>
+    <width>80</width>
+    <height>18</height>
+    <net_weight>1000</net_weight>
+    <capacity>0</capacity>
+    <storage>NA</storage>
+    <units></units>
+    <special>Y</special>
+    <critical>Y</critical>
+    <rarity>0</rarity>
+    <avg_price>50</avg_price>
+    <display_image>locomotive</display_image>
+    <combat_image>locomotive</combat_image>
+    <desc>Locomotive</desc>
+  </wagon>
+  <wagon name="Command and Control">
+    <screen_name>Command and Control</screen_name>
+    <width>42</width>
+    <height>10</height>
+    <net_weight>50</net_weight>
+    <capacity>0</capacity>
+    <storage>NA</storage>
+    <units> </units>
+    <special>Y</special>
+    <critical>Y</critical>
+    <rarity>0</rarity>
+    <avg_price>50</avg_price>
+    <display_image>command_control</display_image>
+    <combat_image>command_control</combat_image>
+    <desc>Command and Control</desc>
+  </wagon>
+  <wagon name="Quarters">
+    <screen_name>Quarters</screen_name>
+    <width>41</width>
+    <height>10</height>
+    <net_weight>40</net_weight>
+    <capacity>0</capacity>
+    <storage>NA</storage>
+    <units> </units>
+    <special>Y</special>
+    <critical>Y</critical>
+    <rarity>0</rarity>
+    <avg_price>50</avg_price>
+    <display_image>quarters</display_image>
+    <combat_image>quarters</combat_image>
+    <desc>Quarters</desc>
+  </wagon>
+</wagons>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<languages>
+    <language lang="EN">
+        <entry id="lignite">lignite</entry>
+        <entry id="main menu">main menu</entry>
+        <entry id="options">options</entry>
+        <entry id="speed">speed</entry>
+        <entry id="chatter_0">#L1#Look out, a massive wolfpack was spotted in the region.</entry>
+        <entry id="chatter_1">#L1#Winter is coming.#L2#Oh wait, it is here already.</entry>
+        <entry id="chatter_2">#L1#The Viking Union is up to no good.#L2#I don't care as long as they bring in some food.</entry>
+        <entry id="discuss_xo_0">#L1#Have you heard about the Minotaur? They say it is a beast!#L2#Better avoid it.</entry>
+        <entry id="discuss_xo_1">#L1#All gauges are nominal. The Transarctica is combat ready, Conductor.</entry>
+        <entry id="discuss_xo_2">#L1#This engine has cutting edge technonolgy. The Viking Union spared no expense.</entry>
+        <entry id="discuss_adjutant_0">#L1#Please try to keep the Transarctica in one piece.</entry>
+        <entry id="discuss_adjutant_1">#L1#Slower speed can improve our coal economy.</entry>
+    </language>
+    <language lang="DE">
+        <entry id="lignite">lignite</entry>
+        <entry id="main menu">main menu</entry>
+        <entry id="options">options</entry>
+        <entry id="speed">speed</entry>
+        <entry id="chatter_0">#L1#Look out, a massive wolfpack was spotted in the region.</entry>
+        <entry id="chatter_1">#L1#Winter is coming.#L2#Oh wait, it is here already.</entry>
+        <entry id="chatter_2">#L1#The Viking Union is up to no good.#L2#I don't care as long as they bring in some food.</entry>
+        <entry id="discuss_xo_0">#L1#Have you heard about the Minotaur? They say it is a beast!#L2#Better avoid it.</entry>
+        <entry id="discuss_xo_1">#L1#All gauges are nominal. The Transarctica is combat ready, Conductor.</entry>
+        <entry id="discuss_xo_2">#L1#This engine has cutting edge technonolgy. The Viking Union spared no expense.</entry>
+        <entry id="discuss_adjutant_0">#L1#Please try to keep the Transarctica in one piece.</entry>
+        <entry id="discuss_adjutant_1">#L1#Slower speed can improve our coal economy.</entry>
+    </language>
+</languages>

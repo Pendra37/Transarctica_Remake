@@ -1,0 +1,1131 @@
+<game_save>
+  <game_object name="Common">
+    <timestamp>1.0036772502893518</timestamp>
+    <CMP0>{'pos': 'X: 9', 'mined': False, 'known': False}</CMP0>
+    <CMP1>{'pos': 'Y: 53', 'mined': False, 'known': False}</CMP1>
+    <CMP2>{'pos': 'X: 47', 'mined': False, 'known': False}</CMP2>
+    <CMP3>{'pos': 'Y: 27', 'mined': False, 'known': False}</CMP3>
+    <CMP4>{'pos': 'X: 29', 'mined': False, 'known': False}</CMP4>
+    <CMP5>{'pos': 'Y: 32', 'mined': False, 'known': False}</CMP5>
+    <CMP6>{'pos': 'X: 89', 'mined': False, 'known': False}</CMP6>
+    <CMP7>{'pos': 'Y: 48', 'mined': False, 'known': False}</CMP7>
+    <CMP8>{'pos': 'X: 144', 'mined': False, 'known': False}</CMP8>
+    <CMP9>{'pos': 'Y: 67', 'mined': False, 'known': False}</CMP9>
+    <CMP10>{'pos': 'X: 122', 'mined': False, 'known': False}</CMP10>
+    <CMP11>{'pos': 'Y: 38', 'mined': False, 'known': False}</CMP11>
+    <CMP12>{'pos': 'X: 9', 'mined': False, 'known': False}</CMP12>
+    <CMP13>{'pos': 'Y: 8', 'mined': False, 'known': False}</CMP13>
+    <CMP14>{'pos': 'X: 88', 'mined': False, 'known': False}</CMP14>
+    <CMP15>{'pos': 'Y: 6', 'mined': False, 'known': False}</CMP15>
+    <CMP16>{'pos': 'X: 22', 'mined': False, 'known': False}</CMP16>
+    <CMP17>{'pos': 'Y: 31', 'mined': False, 'known': False}</CMP17>
+    <CMP18>{'pos': 'X: 49', 'mined': False, 'known': False}</CMP18>
+    <CMP19>{'pos': 'Y: 15', 'mined': False, 'known': False}</CMP19>
+    <tunnel_block_chance>0</tunnel_block_chance>
+    <nr_of_POI>216</nr_of_POI>
+    <POI0>{'py': 19, 'status': 'off', 'px': 0, 'type': 'switch'}</POI0>
+    <POI1>{'py': 30, 'status': 'off', 'px': 0, 'type': 'switch'}</POI1>
+    <POI2>{'py': 67, 'status': 'off', 'px': 1, 'type': 'switch'}</POI2>
+    <POI3>{'py': 69, 'status': 'off', 'px': 1, 'type': 'switch'}</POI3>
+    <POI4>{'py': 18, 'status': 'off', 'px': 2, 'type': 'switch'}</POI4>
+    <POI5>{'py': 57, 'status': 'off', 'px': 4, 'type': 'switch'}</POI5>
+    <POI6>{'py': 70, 'status': 'off', 'px': 4, 'type': 'switch'}</POI6>
+    <POI7>{'py': 12, 'status': 'off', 'px': 5, 'type': 'switch'}</POI7>
+    <POI8>{'py': 71, 'status': 'off', 'px': 5, 'type': 'switch'}</POI8>
+    <POI9>{'py': 57, 'status': 'off', 'px': 6, 'type': 'switch'}</POI9>
+    <POI10>{'py': 62, 'status': 'Y', 'px': 6, 'type': 'bridge'}</POI10>
+    <POI11>{'py': 54, 'status': 'off', 'px': 7, 'type': 'switch'}</POI11>
+    <POI12>{'py': 31, 'status': 'off', 'px': 8, 'type': 'switch'}</POI12>
+    <POI13>{'py': 43, 'status': 'off', 'px': 8, 'type': 'switch'}</POI13>
+    <POI14>{'py': 7, 'status': 'off', 'px': 9, 'type': 'switch'}</POI14>
+    <POI15>{'py': 22, 'status': 'off', 'px': 9, 'type': 'switch'}</POI15>
+    <POI16>{'py': 41, 'status': 'off', 'px': 9, 'type': 'switch'}</POI16>
+    <POI17>{'py': 57, 'status': 'off', 'px': 9, 'type': 'switch'}</POI17>
+    <POI18>{'py': 71, 'status': 'off', 'px': 9, 'type': 'switch'}</POI18>
+    <POI19>{'py': 53, 'status': 'off', 'px': 10, 'type': 'switch'}</POI19>
+    <POI20>{'py': 61, 'status': 'N', 'px': 11, 'type': 'bridge'}</POI20>
+    <POI21>{'py': 70, 'status': 'off', 'px': 11, 'type': 'switch'}</POI21>
+    <POI22>{'py': 57, 'status': 'off', 'px': 12, 'type': 'switch'}</POI22>
+    <POI23>{'py': 68, 'status': 'off', 'px': 12, 'type': 'switch'}</POI23>
+    <POI24>{'py': 53, 'status': 'off', 'px': 13, 'type': 'switch'}</POI24>
+    <POI25>{'py': 51, 'status': 'off', 'px': 14, 'type': 'switch'}</POI25>
+    <POI26>{'py': 9, 'status': 'off', 'px': 15, 'type': 'switch'}</POI26>
+    <POI27>{'py': 23, 'status': 'off', 'px': 16, 'type': 'switch'}</POI27>
+    <POI28>{'py': 51, 'status': 'off', 'px': 16, 'type': 'switch'}</POI28>
+    <POI29>{'py': 57, 'status': 'off', 'px': 16, 'type': 'switch'}</POI29>
+    <POI30>{'py': 23, 'status': 'off', 'px': 18, 'type': 'switch'}</POI30>
+    <POI31>{'py': 13, 'status': 'off', 'px': 19, 'type': 'switch'}</POI31>
+    <POI32>{'py': 47, 'status': 'off', 'px': 19, 'type': 'switch'}</POI32>
+    <POI33>{'py': 69, 'status': 'off', 'px': 19, 'type': 'switch'}</POI33>
+    <POI34>{'py': 42, 'status': 'off', 'px': 20, 'type': 'switch'}</POI34>
+    <POI35>{'py': 47, 'status': 'off', 'px': 20, 'type': 'switch'}</POI35>
+    <POI36>{'py': 66, 'status': 'off', 'px': 20, 'type': 'switch'}</POI36>
+    <POI37>{'py': 9, 'status': 'off', 'px': 21, 'type': 'switch'}</POI37>
+    <POI38>{'py': 45, 'status': 'off', 'px': 21, 'type': 'switch'}</POI38>
+    <POI39>{'py': 49, 'status': 'off', 'px': 21, 'type': 'switch'}</POI39>
+    <POI40>{'py': 54, 'status': 'off', 'px': 21, 'type': 'switch'}</POI40>
+    <POI41>{'py': 42, 'status': 'off', 'px': 22, 'type': 'switch'}</POI41>
+    <POI42>{'py': 54, 'status': 'off', 'px': 22, 'type': 'switch'}</POI42>
+    <POI43>{'py': 67, 'status': 'off', 'px': 22, 'type': 'switch'}</POI43>
+    <POI44>{'py': 47, 'status': 'off', 'px': 23, 'type': 'switch'}</POI44>
+    <POI45>{'py': 32, 'status': 'off', 'px': 24, 'type': 'switch'}</POI45>
+    <POI46>{'py': 47, 'status': 'Y', 'px': 25, 'type': 'bridge'}</POI46>
+    <POI47>{'py': 67, 'status': 'off', 'px': 25, 'type': 'switch'}</POI47>
+    <POI48>{'py': 69, 'status': 'off', 'px': 25, 'type': 'switch'}</POI48>
+    <POI49>{'py': 47, 'status': 'off', 'px': 26, 'type': 'switch'}</POI49>
+    <POI50>{'py': 54, 'status': 'off', 'px': 26, 'type': 'switch'}</POI50>
+    <POI51>{'py': 67, 'status': 'off', 'px': 27, 'type': 'switch'}</POI51>
+    <POI52>{'py': 48, 'status': 'off', 'px': 28, 'type': 'switch'}</POI52>
+    <POI53>{'py': 54, 'status': 'off', 'px': 28, 'type': 'switch'}</POI53>
+    <POI54>{'py': 63, 'status': 'off', 'px': 28, 'type': 'switch'}</POI54>
+    <POI55>{'py': 69, 'status': 'off', 'px': 28, 'type': 'switch'}</POI55>
+    <POI56>{'py': 13, 'status': 'off', 'px': 29, 'type': 'switch'}</POI56>
+    <POI57>{'py': 47, 'status': 'off', 'px': 29, 'type': 'switch'}</POI57>
+    <POI58>{'py': 47, 'status': 'off', 'px': 30, 'type': 'switch'}</POI58>
+    <POI59>{'py': 69, 'status': 'off', 'px': 30, 'type': 'switch'}</POI59>
+    <POI60>{'py': 16, 'status': 'off', 'px': 32, 'type': 'switch'}</POI60>
+    <POI61>{'py': 34, 'status': 'off', 'px': 32, 'type': 'switch'}</POI61>
+    <POI62>{'py': 62, 'status': 'off', 'px': 32, 'type': 'switch'}</POI62>
+    <POI63>{'py': 63, 'status': 'off', 'px': 32, 'type': 'switch'}</POI63>
+    <POI64>{'py': 65, 'status': 'off', 'px': 32, 'type': 'switch'}</POI64>
+    <POI65>{'py': 40, 'status': 'off', 'px': 33, 'type': 'switch'}</POI65>
+    <POI66>{'py': 41, 'status': 'N', 'px': 33, 'type': 'bridge'}</POI66>
+    <POI67>{'py': 18, 'status': 'off', 'px': 34, 'type': 'switch'}</POI67>
+    <POI68>{'py': 20, 'status': 'off', 'px': 34, 'type': 'switch'}</POI68>
+    <POI69>{'py': 21, 'status': 'off', 'px': 34, 'type': 'switch'}</POI69>
+    <POI70>{'py': 46, 'status': 'off', 'px': 34, 'type': 'switch'}</POI70>
+    <POI71>{'py': 60, 'status': 'off', 'px': 34, 'type': 'switch'}</POI71>
+    <POI72>{'py': 65, 'status': 'off', 'px': 34, 'type': 'switch'}</POI72>
+    <POI73>{'py': 71, 'status': 'off', 'px': 34, 'type': 'switch'}</POI73>
+    <POI74>{'py': 32, 'status': 'off', 'px': 36, 'type': 'switch'}</POI74>
+    <POI75>{'py': 67, 'status': 'off', 'px': 36, 'type': 'switch'}</POI75>
+    <POI76>{'py': 25, 'status': 'N', 'px': 37, 'type': 'bridge'}</POI76>
+    <POI77>{'py': 30, 'status': 'off', 'px': 38, 'type': 'switch'}</POI77>
+    <POI78>{'py': 61, 'status': 'off', 'px': 38, 'type': 'switch'}</POI78>
+    <POI79>{'py': 65, 'status': 'off', 'px': 39, 'type': 'switch'}</POI79>
+    <POI80>{'py': 30, 'status': 'off', 'px': 40, 'type': 'switch'}</POI80>
+    <POI81>{'py': 32, 'status': 'off', 'px': 40, 'type': 'switch'}</POI81>
+    <POI82>{'py': 32, 'status': 'N', 'px': 43, 'type': 'bridge'}</POI82>
+    <POI83>{'py': 69, 'status': 'off', 'px': 43, 'type': 'switch'}</POI83>
+    <POI84>{'py': 15, 'status': 'off', 'px': 44, 'type': 'switch'}</POI84>
+    <POI85>{'py': 4, 'status': 'off', 'px': 45, 'type': 'switch'}</POI85>
+    <POI86>{'py': 29, 'status': 'off', 'px': 45, 'type': 'switch'}</POI86>
+    <POI87>{'py': 17, 'status': 'off', 'px': 46, 'type': 'switch'}</POI87>
+    <POI88>{'py': 23, 'status': 'off', 'px': 46, 'type': 'switch'}</POI88>
+    <POI89>{'py': 25, 'status': 'off', 'px': 46, 'type': 'switch'}</POI89>
+    <POI90>{'py': 32, 'status': 'off', 'px': 46, 'type': 'switch'}</POI90>
+    <POI91>{'py': 15, 'status': 'off', 'px': 47, 'type': 'switch'}</POI91>
+    <POI92>{'py': 34, 'status': 'off', 'px': 48, 'type': 'switch'}</POI92>
+    <POI93>{'py': 54, 'status': 'off', 'px': 48, 'type': 'switch'}</POI93>
+    <POI94>{'py': 32, 'status': 'off', 'px': 49, 'type': 'switch'}</POI94>
+    <POI95>{'py': 55, 'status': 'off', 'px': 50, 'type': 'switch'}</POI95>
+    <POI96>{'py': 15, 'status': 'off', 'px': 51, 'type': 'switch'}</POI96>
+    <POI97>{'py': 57, 'status': 'off', 'px': 51, 'type': 'switch'}</POI97>
+    <POI98>{'py': 67, 'status': 'off', 'px': 51, 'type': 'switch'}</POI98>
+    <POI99>{'py': 55, 'status': 'off', 'px': 52, 'type': 'switch'}</POI99>
+    <POI100>{'py': 69, 'status': 'off', 'px': 52, 'type': 'switch'}</POI100>
+    <POI101>{'py': 4, 'status': 'off', 'px': 54, 'type': 'switch'}</POI101>
+    <POI102>{'py': 66, 'status': 'Y', 'px': 54, 'type': 'bridge'}</POI102>
+    <POI103>{'py': 66, 'status': 'off', 'px': 56, 'type': 'switch'}</POI103>
+    <POI104>{'py': 15, 'status': 'off', 'px': 57, 'type': 'switch'}</POI104>
+    <POI105>{'py': 36, 'status': 'off', 'px': 59, 'type': 'switch'}</POI105>
+    <POI106>{'py': 55, 'status': 'off', 'px': 59, 'type': 'switch'}</POI106>
+    <POI107>{'py': 17, 'status': 'off', 'px': 60, 'type': 'switch'}</POI107>
+    <POI108>{'py': 44, 'status': 'off', 'px': 60, 'type': 'switch'}</POI108>
+    <POI109>{'py': 66, 'status': 'off', 'px': 60, 'type': 'switch'}</POI109>
+    <POI110>{'py': 15, 'status': 'off', 'px': 61, 'type': 'switch'}</POI110>
+    <POI111>{'py': 19, 'status': 'off', 'px': 61, 'type': 'switch'}</POI111>
+    <POI112>{'py': 46, 'status': 'off', 'px': 62, 'type': 'switch'}</POI112>
+    <POI113>{'py': 55, 'status': 'off', 'px': 62, 'type': 'switch'}</POI113>
+    <POI114>{'py': 4, 'status': 'off', 'px': 63, 'type': 'switch'}</POI114>
+    <POI115>{'py': 17, 'status': 'off', 'px': 63, 'type': 'switch'}</POI115>
+    <POI116>{'py': 10, 'status': 'off', 'px': 65, 'type': 'switch'}</POI116>
+    <POI117>{'py': 6, 'status': 'off', 'px': 66, 'type': 'switch'}</POI117>
+    <POI118>{'py': 17, 'status': 'off', 'px': 66, 'type': 'switch'}</POI118>
+    <POI119>{'py': 19, 'status': 'off', 'px': 67, 'type': 'switch'}</POI119>
+    <POI120>{'py': 20, 'status': 'off', 'px': 67, 'type': 'switch'}</POI120>
+    <POI121>{'py': 22, 'status': 'off', 'px': 68, 'type': 'switch'}</POI121>
+    <POI122>{'py': 39, 'status': 'off', 'px': 70, 'type': 'switch'}</POI122>
+    <POI123>{'py': 41, 'status': 'off', 'px': 70, 'type': 'switch'}</POI123>
+    <POI124>{'py': 52, 'status': 'Y', 'px': 70, 'type': 'bridge'}</POI124>
+    <POI125>{'py': 17, 'status': 'Y', 'px': 71, 'type': 'bridge'}</POI125>
+    <POI126>{'py': 57, 'status': 'off', 'px': 71, 'type': 'switch'}</POI126>
+    <POI127>{'py': 65, 'status': 'off', 'px': 72, 'type': 'switch'}</POI127>
+    <POI128>{'py': 55, 'status': 'off', 'px': 74, 'type': 'switch'}</POI128>
+    <POI129>{'py': 4, 'status': 'off', 'px': 76, 'type': 'switch'}</POI129>
+    <POI130>{'py': 17, 'status': 'off', 'px': 77, 'type': 'switch'}</POI130>
+    <POI131>{'py': 66, 'status': 'off', 'px': 79, 'type': 'switch'}</POI131>
+    <POI132>{'py': 68, 'status': 'off', 'px': 79, 'type': 'switch'}</POI132>
+    <POI133>{'py': 55, 'status': 'off', 'px': 82, 'type': 'switch'}</POI133>
+    <POI134>{'py': 4, 'status': 'Y', 'px': 83, 'type': 'bridge'}</POI134>
+    <POI135>{'py': 55, 'status': 'off', 'px': 83, 'type': 'switch'}</POI135>
+    <POI136>{'py': 67, 'status': 'off', 'px': 83, 'type': 'switch'}</POI136>
+    <POI137>{'py': 56, 'status': 'off', 'px': 85, 'type': 'switch'}</POI137>
+    <POI138>{'py': 57, 'status': 'off', 'px': 85, 'type': 'switch'}</POI138>
+    <POI139>{'py': 37, 'status': 'off', 'px': 86, 'type': 'switch'}</POI139>
+    <POI140>{'py': 55, 'status': 'off', 'px': 86, 'type': 'switch'}</POI140>
+    <POI141>{'py': 4, 'status': 'off', 'px': 87, 'type': 'switch'}</POI141>
+    <POI142>{'py': 18, 'status': 'off', 'px': 87, 'type': 'switch'}</POI142>
+    <POI143>{'py': 28, 'status': 'off', 'px': 87, 'type': 'switch'}</POI143>
+    <POI144>{'py': 55, 'status': 'off', 'px': 88, 'type': 'switch'}</POI144>
+    <POI145>{'py': 17, 'status': 'off', 'px': 89, 'type': 'switch'}</POI145>
+    <POI146>{'py': 48, 'status': 'off', 'px': 89, 'type': 'switch'}</POI146>
+    <POI147>{'py': 28, 'status': 'off', 'px': 90, 'type': 'switch'}</POI147>
+    <POI148>{'py': 48, 'status': 'off', 'px': 90, 'type': 'switch'}</POI148>
+    <POI149>{'py': 48, 'status': 'off', 'px': 92, 'type': 'switch'}</POI149>
+    <POI150>{'py': 31, 'status': 'off', 'px': 93, 'type': 'switch'}</POI150>
+    <POI151>{'py': 34, 'status': 'Y', 'px': 94, 'type': 'bridge'}</POI151>
+    <POI152>{'py': 41, 'status': 'off', 'px': 94, 'type': 'switch'}</POI152>
+    <POI153>{'py': 55, 'status': 'off', 'px': 96, 'type': 'switch'}</POI153>
+    <POI154>{'py': 31, 'status': 'off', 'px': 100, 'type': 'switch'}</POI154>
+    <POI155>{'py': 67, 'status': 'off', 'px': 100, 'type': 'switch'}</POI155>
+    <POI156>{'py': 4, 'status': 'off', 'px': 102, 'type': 'switch'}</POI156>
+    <POI157>{'py': 3, 'status': 'off', 'px': 103, 'type': 'switch'}</POI157>
+    <POI158>{'py': 61, 'status': 'off', 'px': 103, 'type': 'switch'}</POI158>
+    <POI159>{'py': 38, 'status': 'off', 'px': 105, 'type': 'switch'}</POI159>
+    <POI160>{'py': 48, 'status': 'off', 'px': 106, 'type': 'switch'}</POI160>
+    <POI161>{'py': 50, 'status': 'off', 'px': 107, 'type': 'switch'}</POI161>
+    <POI162>{'py': 52, 'status': 'off', 'px': 107, 'type': 'switch'}</POI162>
+    <POI163>{'py': 62, 'status': 'off', 'px': 107, 'type': 'switch'}</POI163>
+    <POI164>{'py': 46, 'status': 'off', 'px': 108, 'type': 'switch'}</POI164>
+    <POI165>{'py': 21, 'status': 'off', 'px': 110, 'type': 'switch'}</POI165>
+    <POI166>{'py': 38, 'status': 'N', 'px': 110, 'type': 'bridge'}</POI166>
+    <POI167>{'py': 21, 'status': 'off', 'px': 112, 'type': 'switch'}</POI167>
+    <POI168>{'py': 13, 'status': 'off', 'px': 114, 'type': 'switch'}</POI168>
+    <POI169>{'py': 54, 'status': 'off', 'px': 114, 'type': 'switch'}</POI169>
+    <POI170>{'py': 13, 'status': 'off', 'px': 115, 'type': 'switch'}</POI170>
+    <POI171>{'py': 16, 'status': 'Y', 'px': 115, 'type': 'bridge'}</POI171>
+    <POI172>{'py': 38, 'status': 'off', 'px': 116, 'type': 'switch'}</POI172>
+    <POI173>{'py': 13, 'status': 'off', 'px': 117, 'type': 'switch'}</POI173>
+    <POI174>{'py': 65, 'status': 'off', 'px': 117, 'type': 'switch'}</POI174>
+    <POI175>{'py': 3, 'status': 'off', 'px': 118, 'type': 'switch'}</POI175>
+    <POI176>{'py': 31, 'status': 'off', 'px': 118, 'type': 'switch'}</POI176>
+    <POI177>{'py': 28, 'status': 'off', 'px': 119, 'type': 'switch'}</POI177>
+    <POI178>{'py': 38, 'status': 'off', 'px': 119, 'type': 'switch'}</POI178>
+    <POI179>{'py': 54, 'status': 'off', 'px': 119, 'type': 'switch'}</POI179>
+    <POI180>{'py': 30, 'status': 'off', 'px': 120, 'type': 'switch'}</POI180>
+    <POI181>{'py': 44, 'status': 'off', 'px': 121, 'type': 'switch'}</POI181>
+    <POI182>{'py': 45, 'status': 'off', 'px': 121, 'type': 'switch'}</POI182>
+    <POI183>{'py': 27, 'status': 'off', 'px': 122, 'type': 'switch'}</POI183>
+    <POI184>{'py': 19, 'status': 'off', 'px': 123, 'type': 'switch'}</POI184>
+    <POI185>{'py': 45, 'status': 'off', 'px': 123, 'type': 'switch'}</POI185>
+    <POI186>{'py': 3, 'status': 'off', 'px': 127, 'type': 'switch'}</POI186>
+    <POI187>{'py': 22, 'status': 'off', 'px': 128, 'type': 'switch'}</POI187>
+    <POI188>{'py': 17, 'status': 'off', 'px': 129, 'type': 'switch'}</POI188>
+    <POI189>{'py': 3, 'status': 'off', 'px': 130, 'type': 'switch'}</POI189>
+    <POI190>{'py': 9, 'status': 'off', 'px': 134, 'type': 'switch'}</POI190>
+    <POI191>{'py': 10, 'status': 'off', 'px': 134, 'type': 'switch'}</POI191>
+    <POI192>{'py': 31, 'status': 'Y', 'px': 134, 'type': 'bridge'}</POI192>
+    <POI193>{'py': 8, 'status': 'off', 'px': 135, 'type': 'switch'}</POI193>
+    <POI194>{'py': 70, 'status': 'off', 'px': 137, 'type': 'switch'}</POI194>
+    <POI195>{'py': 14, 'status': 'Y', 'px': 139, 'type': 'bridge'}</POI195>
+    <POI196>{'py': 22, 'status': 'off', 'px': 143, 'type': 'switch'}</POI196>
+    <POI197>{'py': 67, 'status': 'Y', 'px': 144, 'type': 'bridge'}</POI197>
+    <POI198>{'py': 31, 'status': 'off', 'px': 145, 'type': 'switch'}</POI198>
+    <POI199>{'py': 31, 'status': 'off', 'px': 146, 'type': 'switch'}</POI199>
+    <POI200>{'py': 37, 'status': 'off', 'px': 147, 'type': 'switch'}</POI200>
+    <POI201>{'py': 58, 'status': 'off', 'px': 147, 'type': 'switch'}</POI201>
+    <POI202>{'py': 40, 'status': 'off', 'px': 150, 'type': 'switch'}</POI202>
+    <POI203>{'py': 36, 'status': 'off', 'px': 154, 'type': 'switch'}</POI203>
+    <POI204>{'py': 43, 'status': 'off', 'px': 159, 'type': 'switch'}</POI204>
+    <POI205>{'py': 62, 'status': 'off', 'px': 159, 'type': 'switch'}</POI205>
+    <POI206>{'py': 53, 'status': 698, 'px': 9, 'type': 'coal_mine'}</POI206>
+    <POI207>{'py': 27, 'status': 662, 'px': 47, 'type': 'coal_mine'}</POI207>
+    <POI208>{'py': 32, 'status': 4242, 'px': 29, 'type': 'coal_mine'}</POI208>
+    <POI209>{'py': 48, 'status': 706, 'px': 89, 'type': 'coal_mine'}</POI209>
+    <POI210>{'py': 67, 'status': 3628, 'px': 144, 'type': 'coal_mine'}</POI210>
+    <POI211>{'py': 38, 'status': 1847, 'px': 122, 'type': 'coal_mine'}</POI211>
+    <POI212>{'py': 8, 'status': 1695, 'px': 9, 'type': 'coal_mine'}</POI212>
+    <POI213>{'py': 6, 'status': 3489, 'px': 88, 'type': 'coal_mine'}</POI213>
+    <POI214>{'py': 31, 'status': 3755, 'px': 22, 'type': 'coal_mine'}</POI214>
+    <POI215>{'py': 15, 'status': 4287, 'px': 49, 'type': 'coal_mine'}</POI215>
+    <POI216 />
+    <POI217 />
+    <POI218 />
+    <POI219 />
+    <POI220 />
+    <POI221 />
+    <POI222 />
+    <POI223 />
+    <POI224 />
+    <POI225 />
+    <POI226 />
+    <POI227 />
+    <POI228 />
+    <POI229 />
+    <POI230 />
+    <POI231 />
+    <POI232 />
+    <POI233 />
+    <POI234 />
+    <POI235 />
+    <POI236 />
+    <POI237 />
+    <POI238 />
+    <POI239 />
+    <POI240 />
+    <POI241 />
+    <POI242 />
+    <POI243 />
+    <POI244 />
+    <POI245 />
+    <POI246 />
+    <POI247 />
+    <POI248 />
+    <POI249 />
+    <POI250 />
+    <POI251 />
+    <POI252 />
+    <POI253 />
+    <POI254 />
+    <POI255 />
+    <POI256 />
+    <POI257 />
+    <POI258 />
+    <POI259 />
+    <POI260 />
+    <POI261 />
+    <POI262 />
+    <POI263 />
+    <POI264 />
+    <POI265 />
+    <POI266 />
+    <POI267 />
+    <POI268 />
+    <POI269 />
+    <POI270 />
+    <POI271 />
+    <POI272 />
+    <POI273 />
+    <POI274 />
+    <POI275 />
+    <POI276 />
+    <POI277 />
+    <POI278 />
+    <POI279 />
+    <POI280 />
+    <POI281 />
+    <POI282 />
+    <POI283 />
+    <POI284 />
+    <POI285 />
+    <POI286 />
+    <POI287 />
+    <POI288 />
+    <POI289 />
+    <POI290 />
+    <POI291 />
+    <POI292 />
+    <POI293 />
+    <POI294 />
+    <POI295 />
+    <POI296 />
+    <POI297 />
+    <POI298 />
+    <POI299 />
+    <POI300 />
+    <POI301 />
+    <POI302 />
+    <POI303 />
+    <POI304 />
+    <POI305 />
+    <POI306 />
+    <POI307 />
+    <POI308 />
+    <POI309 />
+    <POI310 />
+    <POI311 />
+    <POI312 />
+    <POI313 />
+    <POI314 />
+    <POI315 />
+    <POI316 />
+    <POI317 />
+    <POI318 />
+    <POI319 />
+    <POI320 />
+    <POI321 />
+    <POI322 />
+    <POI323 />
+    <POI324 />
+    <POI325 />
+    <POI326 />
+    <POI327 />
+    <POI328 />
+    <POI329 />
+    <POI330 />
+    <POI331 />
+    <POI332 />
+    <POI333 />
+    <POI334 />
+    <POI335 />
+    <POI336 />
+    <POI337 />
+    <POI338 />
+    <POI339 />
+    <POI340 />
+    <POI341 />
+    <POI342 />
+    <POI343 />
+    <POI344 />
+    <POI345 />
+    <POI346 />
+    <POI347 />
+    <POI348 />
+    <POI349 />
+    <POI350 />
+    <POI351 />
+    <POI352 />
+    <POI353 />
+    <POI354 />
+    <POI355 />
+    <POI356 />
+    <POI357 />
+    <POI358 />
+    <POI359 />
+    <POI360 />
+    <POI361 />
+    <POI362 />
+    <POI363 />
+    <POI364 />
+    <POI365 />
+    <POI366 />
+    <POI367 />
+    <POI368 />
+    <POI369 />
+    <POI370 />
+    <POI371 />
+    <POI372 />
+    <POI373 />
+    <POI374 />
+    <POI375 />
+    <POI376 />
+    <POI377 />
+    <POI378 />
+    <POI379 />
+    <POI380 />
+    <POI381 />
+    <POI382 />
+    <POI383 />
+    <POI384 />
+    <POI385 />
+    <POI386 />
+    <POI387 />
+    <POI388 />
+    <POI389 />
+    <POI390 />
+    <POI391 />
+    <POI392 />
+    <POI393 />
+    <POI394 />
+    <POI395 />
+    <POI396 />
+    <POI397 />
+    <POI398 />
+    <POI399 />
+    <POI400 />
+    <POI401 />
+    <POI402 />
+    <POI403 />
+    <POI404 />
+    <POI405 />
+    <POI406 />
+    <POI407 />
+    <POI408 />
+    <POI409 />
+    <POI410 />
+    <POI411 />
+    <POI412 />
+    <POI413 />
+    <POI414 />
+    <POI415 />
+    <POI416 />
+    <POI417 />
+    <POI418 />
+    <POI419 />
+    <POI420 />
+    <POI421 />
+    <POI422 />
+    <POI423 />
+    <POI424 />
+    <POI425 />
+    <POI426 />
+    <POI427 />
+    <POI428 />
+    <POI429 />
+    <POI430 />
+    <POI431 />
+    <POI432 />
+    <POI433 />
+    <POI434 />
+    <POI435 />
+    <POI436 />
+    <POI437 />
+    <POI438 />
+    <POI439 />
+    <POI440 />
+    <POI441 />
+    <POI442 />
+    <POI443 />
+    <POI444 />
+    <POI445 />
+    <POI446 />
+    <POI447 />
+    <POI448 />
+    <POI449 />
+    <POI450 />
+    <POI451 />
+    <POI452 />
+    <POI453 />
+    <POI454 />
+    <POI455 />
+    <POI456 />
+    <POI457 />
+    <POI458 />
+    <POI459 />
+    <POI460 />
+    <POI461 />
+    <POI462 />
+    <POI463 />
+    <POI464 />
+    <POI465 />
+    <POI466 />
+    <POI467 />
+    <POI468 />
+    <POI469 />
+    <POI470 />
+    <POI471 />
+    <POI472 />
+    <POI473 />
+    <POI474 />
+    <POI475 />
+    <POI476 />
+    <POI477 />
+    <POI478 />
+    <POI479 />
+    <POI480 />
+    <POI481 />
+    <POI482 />
+    <POI483 />
+    <POI484 />
+    <POI485 />
+    <POI486 />
+    <POI487 />
+    <POI488 />
+    <POI489 />
+    <POI490 />
+    <POI491 />
+    <POI492 />
+    <POI493 />
+    <POI494 />
+    <POI495 />
+    <POI496 />
+    <POI497 />
+    <POI498 />
+    <POI499 />
+  </game_object>
+  <game_object name="Transarctica">
+    <direction>W</direction>
+    <hpz>159.9981904036557</hpz>
+    <engine_temp>0</engine_temp>
+    <boiler_pressure>0</boiler_pressure>
+    <current_position>{'X': 13, 'Y': 9}</current_position>
+    <is_in_reverse>False</is_in_reverse>
+    <is_break_released>True</is_break_released>
+    <speed>15</speed>
+    <Speed_Regulator>100</Speed_Regulator>
+    <target_speed>300.0</target_speed>
+    <nr_of_wagons>6</nr_of_wagons>
+      <wagon_0>22</wagon_0>
+      <wagon_1>4</wagon_1>
+      <wagon_2>23</wagon_2>
+      <wagon_3>24</wagon_3>
+      <wagon_4>2</wagon_4>
+      <wagon_5>0</wagon_5>
+      <wagon_6>14</wagon_6>
+      <wagon_7>12</wagon_7>
+      <wagon_8>10</wagon_8>
+      <wagon_9>11</wagon_9>
+      <wagon_10>9</wagon_10>
+      <wagon_11>44</wagon_11>
+      <wagon_12>41</wagon_12>
+      <wagon_13>4</wagon_13>
+      <wagon_14>1</wagon_14>
+      <wagon_15>7</wagon_15>
+      <wagon_16 />
+      <wagon_17 />
+      <wagon_18 />
+      <wagon_19 />
+      <wagon_20 />
+      <wagon_21 />
+      <wagon_22 />
+      <wagon_23 />
+      <wagon_24 />
+      <wagon_25 />
+      <wagon_26 />
+      <wagon_27 />
+      <wagon_28 />
+      <wagon_29 />
+      <wagon_30 />
+      <wagon_31 />
+      <wagon_32 />
+      <wagon_33 />
+      <wagon_34 />
+      <wagon_35 />
+      <wagon_36 />
+      <wagon_37 />
+      <wagon_38 />
+      <wagon_39 />
+      <wagon_40 />
+      <wagon_41 />
+      <wagon_42 />
+      <wagon_43 />
+      <wagon_44 />
+      <wagon_45 />
+      <wagon_46 />
+      <wagon_47 />
+      <wagon_48 />
+      <wagon_49 />
+      <wagon_50 />
+      <wagon_51 />
+      <wagon_52 />
+      <wagon_53 />
+      <wagon_54 />
+      <wagon_55 />
+      <wagon_56 />
+      <wagon_57 />
+      <wagon_58 />
+      <wagon_59 />
+      <wagon_60 />
+      <wagon_61 />
+      <wagon_62 />
+      <wagon_63 />
+      <wagon_64 />
+      <wagon_65 />
+      <wagon_66 />
+      <wagon_67 />
+      <wagon_68 />
+      <wagon_69 />
+      <wagon_70 />
+      <wagon_71 />
+      <wagon_72 />
+      <wagon_73 />
+      <wagon_74 />
+      <wagon_75 />
+      <wagon_76 />
+      <wagon_77 />
+      <wagon_78 />
+      <wagon_79 />
+      <wagon_80 />
+      <wagon_81 />
+      <wagon_82 />
+      <wagon_83 />
+      <wagon_84 />
+      <wagon_85 />
+      <wagon_86 />
+      <wagon_87 />
+      <wagon_88 />
+      <wagon_89 />
+      <wagon_90 />
+      <wagon_91 />
+      <wagon_92 />
+      <wagon_93 />
+      <wagon_94 />
+      <wagon_95 />
+      <wagon_96 />
+      <wagon_97 />
+      <wagon_98 />
+      <wagon_99 />
+    <nr_of_items>9</nr_of_items>
+      <stock_item_0>{'loss': 0, 'value': 0, 'hold': 0, 'gain': 0}</stock_item_0>
+      <stock_item_1>{'loss': 0, 'value': 0, 'hold': 0, 'gain': 0}</stock_item_1>
+      <stock_item_2>{'loss': 0, 'value': 0, 'hold': 0, 'gain': 0}</stock_item_2>
+      <stock_item_3>{'loss': 0, 'value': 0, 'hold': 0, 'gain': 0}</stock_item_3>
+      <stock_item_4>{'loss': 0, 'value': 0, 'hold': 0, 'gain': 0}</stock_item_4>
+      <stock_item_5>{'loss': 0, 'value': 0, 'hold': 0, 'gain': 0}</stock_item_5>
+      <stock_item_6>{'loss': 0, 'value': 0, 'hold': 0, 'gain': 0}</stock_item_6>
+      <stock_item_7>{'loss': 0, 'value': 0, 'hold': 0, 'gain': 0}</stock_item_7>
+      <stock_item_8>{'loss': 0, 'value': 0, 'hold': 0, 'gain': 0}</stock_item_8>
+      <stock_item_9>{'loss': 0, 'value': 0, 'hold': 0, 'gain': 0}</stock_item_9>
+      <stock_item_10>{'loss': 0, 'value': 0, 'hold': 0, 'gain': 0}</stock_item_10>
+      <stock_item_11>{'loss': 0, 'value': 0, 'hold': 0, 'gain': 0}</stock_item_11>
+      <stock_item_12>{'loss': 0, 'value': 0, 'hold': 0, 'gain': 0}</stock_item_12>
+      <stock_item_13>{'loss': 0, 'value': 0, 'hold': 0, 'gain': 0}</stock_item_13>
+      <stock_item_14>{'loss': 0, 'value': 0, 'hold': 0, 'gain': 0}</stock_item_14>
+      <stock_item_15>{'loss': 0, 'value': 0, 'hold': 0, 'gain': 0}</stock_item_15>
+      <stock_item_16>{'loss': 0, 'value': 3, 'hold': 1000, 'gain': 0}</stock_item_16>
+      <stock_item_17>{'loss': 0, 'value': 1, 'hold': 2000, 'gain': 0}</stock_item_17>
+      <stock_item_18>{'loss': 0, 'value': 0, 'hold': 0, 'gain': 0}</stock_item_18>
+      <stock_item_19>{'loss': 0, 'value': 0, 'hold': 0, 'gain': 0}</stock_item_19>
+      <stock_item_20>{'loss': 0, 'value': 0, 'hold': 0, 'gain': 0}</stock_item_20>
+      <stock_item_21>{'loss': 0, 'value': 0, 'hold': 0, 'gain': 0}</stock_item_21>
+      <stock_item_22>{'loss': 0, 'value': 0, 'hold': 0, 'gain': 0}</stock_item_22>
+      <stock_item_23>{'loss': 0, 'value': 0, 'hold': 0, 'gain': 0}</stock_item_23>
+      <stock_item_24>{'loss': 0, 'value': 0, 'hold': 0, 'gain': 0}</stock_item_24>
+      <stock_item_25>{'loss': 0, 'value': 0, 'hold': 0, 'gain': 0}</stock_item_25>
+      <stock_item_26>{'loss': 0, 'value': 0, 'hold': 0, 'gain': 0}</stock_item_26>
+      <stock_item_27>{'loss': 0, 'value': 0, 'hold': 0, 'gain': 0}</stock_item_27>
+      <stock_item_28>{'loss': 0, 'value': 0, 'hold': 0, 'gain': 0}</stock_item_28>
+      <stock_item_29>{'loss': 0, 'value': 0, 'hold': 0, 'gain': 0}</stock_item_29>
+      <stock_item_30>{'loss': 0, 'value': 0, 'hold': 0, 'gain': 0}</stock_item_30>
+      <stock_item_31>{'loss': 0, 'value': 0, 'hold': 0, 'gain': 0}</stock_item_31>
+      <stock_item_32>{'loss': 0, 'value': 0, 'hold': 0, 'gain': 0}</stock_item_32>
+      <stock_item_33>{'loss': 0, 'value': 0, 'hold': 0, 'gain': 0}</stock_item_33>
+      <stock_item_34>{'loss': 0, 'value': 0, 'hold': 0, 'gain': 0}</stock_item_34>
+      <stock_item_35>{'loss': 0, 'value': 0, 'hold': 0, 'gain': 0}</stock_item_35>
+      <stock_item_36>{'loss': 0, 'value': 0, 'hold': 0, 'gain': 0}</stock_item_36>
+      <stock_item_37>{'loss': 0, 'value': 0, 'hold': 0, 'gain': 0}</stock_item_37>
+      <stock_item_38>{'loss': 0, 'value': 0, 'hold': 0, 'gain': 0}</stock_item_38>
+      <stock_item_39>{'loss': 0, 'value': 0, 'hold': 0, 'gain': 0}</stock_item_39>
+      <stock_item_40>{'loss': 0, 'value': 0, 'hold': 0, 'gain': 0}</stock_item_40>
+      <stock_item_41>{'loss': 0, 'value': 0, 'hold': 0, 'gain': 0}</stock_item_41>
+      <stock_item_42>{'loss': 0, 'value': 0, 'hold': 0, 'gain': 0}</stock_item_42>
+      <stock_item_43>{'loss': 0, 'value': 0, 'hold': 0, 'gain': 0}</stock_item_43>
+      <stock_item_44>{'loss': 0, 'value': 0, 'hold': 0, 'gain': 0}</stock_item_44>
+      <stock_item_45>{'loss': 0, 'value': 25, 'hold': 10, 'gain': 0}</stock_item_45>
+      <stock_item_46>{'loss': 0, 'value': 0, 'hold': 0, 'gain': 0}</stock_item_46>
+      <stock_item_47>{'loss': 0, 'value': 0, 'hold': 0, 'gain': 0}</stock_item_47>
+      <stock_item_48>{'loss': 0, 'value': 0, 'hold': 0, 'gain': 0}</stock_item_48>
+      <stock_item_49>{'loss': 0, 'value': 0, 'hold': 0, 'gain': 0}</stock_item_49>
+      <stock_item_50>{'loss': 0, 'value': 0, 'hold': 0, 'gain': 0}</stock_item_50>
+      <stock_item_51>{'loss': 0, 'value': 0, 'hold': 0, 'gain': 0}</stock_item_51>
+      <stock_item_52>{'value': 0, 'hold': 0, 'loss': 0}</stock_item_52>
+      <stock_item_53>{'value': 0, 'hold': 0, 'loss': 0}</stock_item_53>
+      <stock_item_54>{'value': 0, 'hold': 0, 'loss': 0}</stock_item_54>
+      <stock_item_55>{'value': 0, 'hold': 0, 'loss': 0}</stock_item_55>
+      <stock_item_56>{'value': 0, 'hold': 0, 'loss': 0}</stock_item_56>
+      <stock_item_57>{'value': 0, 'hold': 0, 'loss': 0}</stock_item_57>
+      <stock_item_58>{'value': 0, 'hold': 0, 'loss': 0}</stock_item_58>
+      <stock_item_59>{'value': 0, 'hold': 0, 'loss': 0}</stock_item_59>
+      <stock_item_60>{'value': 0, 'hold': 0, 'loss': 0}</stock_item_60>
+      <stock_item_61>{'value': 0, 'hold': 0, 'loss': 0}</stock_item_61>
+      <stock_item_62>{'value': 0, 'hold': 0, 'loss': 0}</stock_item_62>
+      <stock_item_63>{'value': 0, 'hold': 0, 'loss': 0}</stock_item_63>
+      <stock_item_64>{'value': 0, 'hold': 0, 'loss': 0}</stock_item_64>
+      <stock_item_65>{'value': 0, 'hold': 0, 'loss': 0}</stock_item_65>
+      <stock_item_66>{'value': 0, 'hold': 0, 'loss': 0}</stock_item_66>
+      <stock_item_67>{'value': 0, 'hold': 0, 'loss': 0}</stock_item_67>
+      <stock_item_68>{'value': 0, 'hold': 0, 'loss': 0}</stock_item_68>
+      <stock_item_69>{'value': 0, 'hold': 0, 'loss': 0}</stock_item_69>
+      <stock_item_70>{'value': 0, 'hold': 0, 'loss': 0}</stock_item_70>
+      <stock_item_71>{'value': 0, 'hold': 0, 'loss': 0}</stock_item_71>
+      <stock_item_72>{'value': 0, 'hold': 0, 'loss': 0}</stock_item_72>
+      <stock_item_73>{'value': 0, 'hold': 0, 'loss': 0}</stock_item_73>
+      <stock_item_74>{'value': 0, 'hold': 0, 'loss': 0}</stock_item_74>
+      <stock_item_75>{'value': 0, 'hold': 0, 'loss': 0}</stock_item_75>
+      <stock_item_76>{'value': 0, 'hold': 0, 'loss': 0}</stock_item_76>
+      <stock_item_77 />
+      <stock_item_78 />
+      <stock_item_79 />
+      <stock_item_80 />
+      <stock_item_81 />
+      <stock_item_82 />
+      <stock_item_83 />
+      <stock_item_84 />
+      <stock_item_85 />
+      <stock_item_86 />
+      <stock_item_87 />
+      <stock_item_88 />
+      <stock_item_89 />
+      <stock_item_90 />
+      <stock_item_91 />
+      <stock_item_92 />
+      <stock_item_93 />
+      <stock_item_94 />
+      <stock_item_95 />
+      <stock_item_96 />
+      <stock_item_97 />
+      <stock_item_98 />
+      <stock_item_99 />
+      <stock_item_100 />
+      <stock_item_101 />
+      <stock_item_102 />
+      <stock_item_103 />
+      <stock_item_104 />
+      <stock_item_105 />
+      <stock_item_106 />
+      <stock_item_107 />
+      <stock_item_108 />
+      <stock_item_109 />
+      <stock_item_110 />
+      <stock_item_111 />
+      <stock_item_112 />
+      <stock_item_113 />
+      <stock_item_114 />
+      <stock_item_115 />
+      <stock_item_116 />
+      <stock_item_117 />
+      <stock_item_118 />
+      <stock_item_119 />
+      <stock_item_120 />
+      <stock_item_121 />
+      <stock_item_122 />
+      <stock_item_123 />
+      <stock_item_124 />
+      <stock_item_125 />
+      <stock_item_126 />
+      <stock_item_127 />
+      <stock_item_128 />
+      <stock_item_129 />
+      <stock_item_130 />
+      <stock_item_131 />
+      <stock_item_132 />
+      <stock_item_133 />
+      <stock_item_134 />
+      <stock_item_135 />
+      <stock_item_136 />
+      <stock_item_137 />
+      <stock_item_138 />
+      <stock_item_139 />
+      <stock_item_140 />
+      <stock_item_141 />
+      <stock_item_142 />
+      <stock_item_143 />
+      <stock_item_144 />
+      <stock_item_145 />
+      <stock_item_146 />
+      <stock_item_147 />
+      <stock_item_148 />
+      <stock_item_149 />
+      <stock_item_150 />
+      <stock_item_151 />
+      <stock_item_152 />
+      <stock_item_153 />
+      <stock_item_154 />
+      <stock_item_155 />
+      <stock_item_156 />
+      <stock_item_157 />
+      <stock_item_158 />
+      <stock_item_159 />
+      <stock_item_160 />
+      <stock_item_161 />
+      <stock_item_162 />
+      <stock_item_163 />
+      <stock_item_164 />
+      <stock_item_165 />
+      <stock_item_166 />
+      <stock_item_167 />
+      <stock_item_168 />
+      <stock_item_169 />
+      <stock_item_170 />
+      <stock_item_171 />
+      <stock_item_172 />
+      <stock_item_173 />
+      <stock_item_174 />
+      <stock_item_175 />
+      <stock_item_176 />
+      <stock_item_177 />
+      <stock_item_178 />
+      <stock_item_179 />
+      <stock_item_180 />
+      <stock_item_181 />
+      <stock_item_182 />
+      <stock_item_183 />
+      <stock_item_184 />
+      <stock_item_185 />
+      <stock_item_186 />
+      <stock_item_187 />
+      <stock_item_188 />
+      <stock_item_189 />
+      <stock_item_190 />
+      <stock_item_191 />
+      <stock_item_192 />
+      <stock_item_193 />
+      <stock_item_194 />
+      <stock_item_195 />
+      <stock_item_196 />
+      <stock_item_197 />
+      <stock_item_198 />
+      <stock_item_199 />
+  </game_object>
+  <game_object name="VUTrain0">
+    <direction>E</direction>
+    <hpz>160</hpz>
+    <current_position>{'X': 15, 'Y': 9}</current_position>
+    <is_in_reverse>False</is_in_reverse>
+    <is_break_released>True</is_break_released>
+    <speed>15</speed>
+    <Speed_Regulator>73</Speed_Regulator>
+    <target_speed>219.0</target_speed>
+    <is_intact>False</is_intact>
+    <respawn_timestamp>2.7916666666666665</respawn_timestamp>
+    <force_rating>21</force_rating>
+  </game_object>
+  <game_object name="VUTrain1">
+    <direction>E</direction>
+    <hpz>160</hpz>
+    <current_position>{'X': 15, 'Y': 9}</current_position>
+    <is_in_reverse>False</is_in_reverse>
+    <is_break_released>True</is_break_released>
+    <speed>15</speed>
+    <Speed_Regulator>51</Speed_Regulator>
+    <target_speed>153.0</target_speed>
+    <is_intact>False</is_intact>
+    <respawn_timestamp>2.6875</respawn_timestamp>
+    <force_rating>38</force_rating>
+  </game_object>
+  <game_object name="VUTrain2">
+    <direction>E</direction>
+    <hpz>160</hpz>
+    <current_position>{'X': 15, 'Y': 9}</current_position>
+    <is_in_reverse>False</is_in_reverse>
+    <is_break_released>True</is_break_released>
+    <speed>15</speed>
+    <Speed_Regulator>90</Speed_Regulator>
+    <target_speed>270.0</target_speed>
+    <is_intact>False</is_intact>
+    <respawn_timestamp>2.1875</respawn_timestamp>
+    <force_rating>26</force_rating>
+  </game_object>
+  <game_object name="VUTrain3">
+    <direction>E</direction>
+    <hpz>160</hpz>
+    <current_position>{'X': 15, 'Y': 9}</current_position>
+    <is_in_reverse>False</is_in_reverse>
+    <is_break_released>True</is_break_released>
+    <speed>15</speed>
+    <Speed_Regulator>77</Speed_Regulator>
+    <target_speed>231.0</target_speed>
+    <is_intact>False</is_intact>
+    <respawn_timestamp>2.5625</respawn_timestamp>
+    <force_rating>24</force_rating>
+  </game_object>
+  <game_object name="VUTrain4">
+    <direction>E</direction>
+    <hpz>160</hpz>
+    <current_position>{'X': 15, 'Y': 9}</current_position>
+    <is_in_reverse>False</is_in_reverse>
+    <is_break_released>True</is_break_released>
+    <speed>15</speed>
+    <Speed_Regulator>87</Speed_Regulator>
+    <target_speed>261.0</target_speed>
+    <is_intact>False</is_intact>
+    <respawn_timestamp>2.8958333333333335</respawn_timestamp>
+    <force_rating>23</force_rating>
+  </game_object>
+  <game_object name="VUTrain5">
+    <direction>E</direction>
+    <hpz>160</hpz>
+    <current_position>{'X': 15, 'Y': 9}</current_position>
+    <is_in_reverse>False</is_in_reverse>
+    <is_break_released>True</is_break_released>
+    <speed>15</speed>
+    <Speed_Regulator>53</Speed_Regulator>
+    <target_speed>159.0</target_speed>
+    <is_intact>False</is_intact>
+    <respawn_timestamp>2.25</respawn_timestamp>
+    <force_rating>40</force_rating>
+  </game_object>
+  <game_object name="VUTrain6">
+    <direction>E</direction>
+    <hpz>160</hpz>
+    <current_position>{'X': 15, 'Y': 9}</current_position>
+    <is_in_reverse>False</is_in_reverse>
+    <is_break_released>True</is_break_released>
+    <speed>15</speed>
+    <Speed_Regulator>77</Speed_Regulator>
+    <target_speed>231.0</target_speed>
+    <is_intact>False</is_intact>
+    <respawn_timestamp>2.7083333333333335</respawn_timestamp>
+    <force_rating>34</force_rating>
+  </game_object>
+  <game_object name="VUTrain7">
+    <direction>E</direction>
+    <hpz>160</hpz>
+    <current_position>{'X': 15, 'Y': 9}</current_position>
+    <is_in_reverse>False</is_in_reverse>
+    <is_break_released>True</is_break_released>
+    <speed>15</speed>
+    <Speed_Regulator>53</Speed_Regulator>
+    <target_speed>159.0</target_speed>
+    <is_intact>False</is_intact>
+    <respawn_timestamp>2.875</respawn_timestamp>
+    <force_rating>22</force_rating>
+  </game_object>
+  <game_object name="VUTrain8">
+    <direction>E</direction>
+    <hpz>160</hpz>
+    <current_position>{'X': 15, 'Y': 9}</current_position>
+    <is_in_reverse>False</is_in_reverse>
+    <is_break_released>True</is_break_released>
+    <speed>15</speed>
+    <Speed_Regulator>74</Speed_Regulator>
+    <target_speed>222.0</target_speed>
+    <is_intact>False</is_intact>
+    <respawn_timestamp>2.8125</respawn_timestamp>
+    <force_rating>24</force_rating>
+  </game_object>
+  <game_object name="VUTrain9">
+    <direction>E</direction>
+    <hpz>160</hpz>
+    <current_position>{'X': 15, 'Y': 9}</current_position>
+    <is_in_reverse>False</is_in_reverse>
+    <is_break_released>True</is_break_released>
+    <speed>15</speed>
+    <Speed_Regulator>82</Speed_Regulator>
+    <target_speed>246.0</target_speed>
+    <is_intact>False</is_intact>
+    <respawn_timestamp>2.9375</respawn_timestamp>
+    <force_rating>27</force_rating>
+  </game_object>
+  <game_object name="Roamer0">
+    <direction>C</direction>
+    <current_position>{'X': 151, 'Y': 67}</current_position>
+    <is_break_released>True</is_break_released>
+    <speed>56</speed>
+    <force_rating>203</force_rating>
+    <roamer_type>mammoth_herd</roamer_type>
+  </game_object>
+  <game_object name="Roamer1">
+    <direction>A</direction>
+    <current_position>{'X': 99, 'Y': 16}</current_position>
+    <is_break_released>True</is_break_released>
+    <speed>41</speed>
+    <force_rating>214</force_rating>
+    <roamer_type>nomads</roamer_type>
+  </game_object>
+  <game_object name="Roamer2">
+    <direction>W</direction>
+    <current_position>{'X': 85, 'Y': 39}</current_position>
+    <is_break_released>True</is_break_released>
+    <speed>32</speed>
+    <force_rating>276</force_rating>
+    <roamer_type>nomads</roamer_type>
+  </game_object>
+  <game_object name="Roamer3">
+    <direction>N</direction>
+    <current_position>{'X': 129, 'Y': 25}</current_position>
+    <is_break_released>True</is_break_released>
+    <speed>56</speed>
+    <force_rating>239</force_rating>
+    <roamer_type>mammoth_herd</roamer_type>
+  </game_object>
+  <game_object name="Roamer4">
+    <direction>C</direction>
+    <current_position>{'X': 58, 'Y': 61}</current_position>
+    <is_break_released>True</is_break_released>
+    <speed>51</speed>
+    <force_rating>271</force_rating>
+    <roamer_type>mammoth_herd</roamer_type>
+  </game_object>
+  <game_object name="Roamer5">
+    <direction>A</direction>
+    <current_position>{'X': 101, 'Y': 51}</current_position>
+    <is_break_released>True</is_break_released>
+    <speed>30</speed>
+    <force_rating>258</force_rating>
+    <roamer_type>mammoth_herd</roamer_type>
+  </game_object>
+  <game_object name="Roamer6">
+    <direction>E</direction>
+    <current_position>{'X': 18, 'Y': 65}</current_position>
+    <is_break_released>True</is_break_released>
+    <speed>51</speed>
+    <force_rating>178</force_rating>
+    <roamer_type>nomads</roamer_type>
+  </game_object>
+  <game_object name="Roamer7">
+    <direction>A</direction>
+    <current_position>{'X': 113, 'Y': 32}</current_position>
+    <is_break_released>True</is_break_released>
+    <speed>37</speed>
+    <force_rating>230</force_rating>
+    <roamer_type>nomads</roamer_type>
+  </game_object>
+  <game_object name="Roamer8">
+    <direction>C</direction>
+    <current_position>{'X': 152, 'Y': 33}</current_position>
+    <is_break_released>True</is_break_released>
+    <speed>37</speed>
+    <force_rating>238</force_rating>
+    <roamer_type>nomads</roamer_type>
+  </game_object>
+  <game_object name="Roamer9">
+    <direction>W</direction>
+    <current_position>{'X': 82, 'Y': 42}</current_position>
+    <is_break_released>True</is_break_released>
+    <speed>41</speed>
+    <force_rating>250</force_rating>
+    <roamer_type>nomads</roamer_type>
+  </game_object>
+  <game_object name="Roamer10">
+    <direction>A</direction>
+    <current_position>{'X': 12, 'Y': 43}</current_position>
+    <is_break_released>True</is_break_released>
+    <speed>42</speed>
+    <force_rating>228</force_rating>
+    <roamer_type>mammoth_herd</roamer_type>
+  </game_object>
+  <game_object name="Roamer11">
+    <direction>C</direction>
+    <current_position>{'X': 71, 'Y': 19}</current_position>
+    <is_break_released>True</is_break_released>
+    <speed>33</speed>
+    <force_rating>224</force_rating>
+    <roamer_type>mammoth_herd</roamer_type>
+  </game_object>
+  <game_object name="Roamer12">
+    <direction>A</direction>
+    <current_position>{'X': 22, 'Y': 51}</current_position>
+    <is_break_released>True</is_break_released>
+    <speed>32</speed>
+    <force_rating>77</force_rating>
+    <roamer_type>nomads</roamer_type>
+  </game_object>
+  <game_object name="Roamer13">
+    <direction>W</direction>
+    <current_position>{'X': 98, 'Y': 35}</current_position>
+    <is_break_released>True</is_break_released>
+    <speed>38</speed>
+    <force_rating>127</force_rating>
+    <roamer_type>mammoth_herd</roamer_type>
+  </game_object>
+  <game_object name="Roamer14">
+    <direction>D</direction>
+    <current_position>{'X': 41, 'Y': 60}</current_position>
+    <is_break_released>True</is_break_released>
+    <speed>37</speed>
+    <force_rating>209</force_rating>
+    <roamer_type>nomads</roamer_type>
+  </game_object>
+  <game_object name="Roamer15">
+    <direction>S</direction>
+    <current_position>{'X': 94, 'Y': 22}</current_position>
+    <is_break_released>True</is_break_released>
+    <speed>39</speed>
+    <force_rating>135</force_rating>
+    <roamer_type>nomads</roamer_type>
+  </game_object>
+  <game_object name="Roamer16">
+    <direction>N</direction>
+    <current_position>{'X': 134, 'Y': 8}</current_position>
+    <is_break_released>True</is_break_released>
+    <speed>38</speed>
+    <force_rating>258</force_rating>
+    <roamer_type>nomads</roamer_type>
+  </game_object>
+  <game_object name="Roamer17">
+    <direction>C</direction>
+    <current_position>{'X': 72, 'Y': 67}</current_position>
+    <is_break_released>True</is_break_released>
+    <speed>53</speed>
+    <force_rating>162</force_rating>
+    <roamer_type>mammoth_herd</roamer_type>
+  </game_object>
+  <game_object name="Roamer18">
+    <direction>W</direction>
+    <current_position>{'X': 69, 'Y': 54}</current_position>
+    <is_break_released>True</is_break_released>
+    <speed>52</speed>
+    <force_rating>275</force_rating>
+    <roamer_type>mammoth_herd</roamer_type>
+  </game_object>
+  <game_object name="Roamer19">
+    <direction>S</direction>
+    <current_position>{'X': 149, 'Y': 21}</current_position>
+    <is_break_released>True</is_break_released>
+    <speed>44</speed>
+    <force_rating>90</force_rating>
+    <roamer_type>mammoth_herd</roamer_type>
+  </game_object>
+</game_save>

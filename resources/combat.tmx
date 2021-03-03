@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="144" height="10" tilewidth="64" tileheight="64" nextobjectid="1">
+ <tileset firstgid="1" name="tileset" tilewidth="64" tileheight="64" tilecount="336">
+  <image source="atlas_original64.png" trans="ff00ff" width="1536" height="896"/>
+  <terraintypes>
+   <terrain name="New Terrain" tile="-1"/>
+  </terraintypes>
+  <tile id="0">
+   <properties>
+    <property name="terrain" value="open"/>
+    <property name="combat_unit" value="na"/>
+   </properties>
+  </tile>
+  <tile id="1">
+   <properties>
+    <property name="terrain" value="rail"/>
+    <property name="combat_unit" value="na"/>
+   </properties>
+  </tile>
+  <tile id="2">
+   <properties>
+    <property name="terrain" value="rail"/>
+    <property name="combat_unit" value="na"/>
+   </properties>
+  </tile>
+  <tile id="3">
+   <properties>
+    <property name="terrain" value="rail"/>
+    <property name="combat_unit" value="na"/>
+   </properties>
+  </tile>
+  <tile id="4">
+   <properties>
+    <property name="directions" value="S"/>
+    <property name="nodes" value="0.5,0.5;"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="5">
+   <properties>
+    <property name="directions" value="NS"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="6">
+   <properties>
+    <property name="directions" value="N"/>
+    <property name="nodes" value="0.5,0.5;"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="7">
+   <properties>
+    <property name="directions" value="AC"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="8">
+   <properties>
+    <property name="directions" value="BD"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="9">
+   <properties>
+    <property name="directions" value="EA"/>
+    <property name="nodes" value="0.5,0.5;"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="10">
+   <properties>
+    <property name="directions" value="WB"/>
+    <property name="nodes" value="0.5,0.5;"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="11">
+   <properties>
+    <property name="directions" value="ED"/>
+    <property name="nodes" value="0.5,0.5;"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="12">
+   <properties>
+    <property name="directions" value="WC"/>
+    <property name="nodes" value="0.5,0.5;"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="13">
+   <properties>
+    <property name="directions" value="SB"/>
+    <property name="nodes" value="0.5,0.5;"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="14">
+   <properties>
+    <property name="directions" value="NC"/>
+    <property name="nodes" value="0.5,0.5;"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>  
+  <tile id="15">
+   <properties>
+    <property name="directions" value="AS"/>
+    <property name="nodes" value="0.5,0.5;"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="16">
+   <properties>
+    <property name="directions" value="DN"/>
+    <property name="nodes" value="0.5,0.5;"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>  
+   <tile id="17">
+   <properties>
+    <property name="directions" value="AC;BD"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile> 
+   <tile id="18">
+   <properties>
+    <property name="directions" value="NS;EW"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile> 
+  <tile id="19">
+   <properties>
+    <property name="directions" value="WEB"/>
+    <property name="nodes" value="0.5,0.5;"/>
+    <property name="switch" value="off"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="20">
+   <properties>
+    <property name="directions" value="WEB"/>
+    <property name="nodes" value="0.5,0.5;"/>
+    <property name="switch" value="on"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="21">
+   <properties>
+    <property name="directions" value="EWA"/>
+    <property name="nodes" value="0.5,0.5;"/>
+    <property name="switch" value="off"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="22">
+   <properties>
+    <property name="directions" value="EWA"/>
+    <property name="nodes" value="0.5,0.5;"/>
+    <property name="switch" value="on"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="23">
+   <properties>
+    <property name="directions" value="WEC"/>
+    <property name="nodes" value="0.5,0.5;"/>
+    <property name="switch" value="off"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="24">
+   <properties>
+    <property name="directions" value="WEC"/>
+    <property name="nodes" value="0.5,0.5;"/>
+    <property name="switch" value="on"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="25">
+   <properties>
+    <property name="directions" value="EWD"/>
+    <property name="nodes" value="0.5,0.5;"/>
+    <property name="switch" value="off"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="26">
+   <properties>
+    <property name="directions" value="EWD"/>
+    <property name="nodes" value="0.5,0.5;"/>
+    <property name="switch" value="on"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="27">
+   <properties>
+    <property name="directions" value="SNA"/>
+    <property name="nodes" value="0.5,0.5;"/>
+    <property name="switch" value="off"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="28">
+   <properties>
+    <property name="directions" value="SNA"/>
+    <property name="nodes" value="0.5,0.5;"/>
+    <property name="switch" value="on"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="29">
+   <properties>
+    <property name="directions" value="SNB"/>
+    <property name="nodes" value="0.5,0.5;"/>
+    <property name="switch" value="off"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="30">
+   <properties>
+    <property name="directions" value="SNB"/>
+    <property name="nodes" value="0.5,0.5;"/>
+    <property name="switch" value="on"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="31">
+   <properties>
+    <property name="directions" value="NSD"/>
+    <property name="nodes" value="0.5,0.5;"/>
+    <property name="switch" value="off"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="32">
+   <properties>
+    <property name="directions" value="NSD"/>
+    <property name="nodes" value="0.5,0.5;"/>
+    <property name="switch" value="on"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="33">
+   <properties>
+    <property name="directions" value="NSC"/>
+    <property name="nodes" value="0.5,0.5;"/>
+    <property name="switch" value="off"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="34">
+   <properties>
+    <property name="directions" value="NSC"/>
+    <property name="nodes" value="0.5,0.5;"/>
+    <property name="switch" value="on"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="35">
+   <properties>
+    <property name="directions" value="NS"/>
+    <property name="bridge" value="Y"/>
+    <property name="monster" value="Y"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="36">
+   <properties>
+    <property name="directions" value="WE"/>
+    <property name="bridge" value="Y"/>
+    <property name="monster" value="Y"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="37">
+   <properties>
+    <property name="directions" value="WE"/>
+    <property name="bridge" value="Y"/>
+    <property name="monster" value="Y"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="38">
+   <properties>
+    <property name="directions" value="WE"/>
+    <property name="bridge" value="Y"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="39">
+   <properties>
+    <property name="directions" value="WE"/>
+    <property name="bridge" value="Y"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="40">
+   <properties>
+    <property name="directions" value="WE"/>
+    <property name="bridge" value="Y"/>
+    <property name="monster" value="Y"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="Y"/>
+   </properties>
+  </tile>
+  <tile id="41">
+   <properties>
+    <property name="directions" value="WE"/>
+    <property name="bridge" value="Y"/>
+    <property name="monster" value="Y"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="Y"/>
+   </properties>
+  </tile>
+  <tile id="59">
+   <properties>
+    <property name="directions" value="NS"/>
+    <property name="bridge" value="Y"/>
+    <property name="monster" value="Y"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="Y"/>
+   </properties>
+  </tile>
+  <tile id="65">
+   <properties>
+    <property name="directions" value="ED"/>
+    <property name="nodes" value="0.5,0.5;"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="66">
+   <properties>
+    <property name="directions" value="EW"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="67">
+   <properties>
+    <property name="directions" value="EW"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="68">
+   <properties>
+    <property name="directions" value="EA"/>
+    <property name="nodes" value="0.5,0.5;"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="69">
+   <properties>
+    <property name="directions" value="EW"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="70">
+   <properties>
+    <property name="directions" value="EW"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="72">
+   <properties>
+    <property name="directions" value="EW"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="73">
+   <properties>
+    <property name="directions" value="EW"/>
+    <property name="speedmod" value="1.5"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="74">
+   <properties>
+    <property name="directions" value="WC"/>
+    <property name="nodes" value="0.5,0.5;"/>
+    <property name="speedmod" value="1.5"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="75">
+   <properties>
+    <property name="directions" value="WE"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="76">
+   <properties>
+    <property name="directions" value="WE"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="77">
+   <properties>
+    <property name="directions" value="WB"/>
+    <property name="nodes" value="0.5,0.5;"/>
+    <property name="speedmod" value="1.5"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="78">
+   <properties>
+    <property name="directions" value="NS"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="79">
+   <properties>
+    <property name="directions" value="NS"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="80">
+   <properties>
+    <property name="directions" value="NS"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="81">
+   <properties>
+    <property name="directions" value="NS"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="82">
+   <properties>
+    <property name="directions" value="AS"/>
+    <property name="nodes" value="0.5,0.5;"/>
+    <property name="speedmod" value="1.5"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="83">
+   <properties>
+    <property name="directions" value="BS"/>
+    <property name="nodes" value="0.5,0.5;"/>
+    <property name="speedmod" value="1.5"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="84">
+   <properties>
+    <property name="directions" value="ND"/>
+    <property name="nodes" value="0.5,0.5;"/>
+    <property name="speedmod" value="1.5"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="85">
+   <properties>
+    <property name="directions" value="NC"/>
+    <property name="nodes" value="0.5,0.5;"/>
+    <property name="speedmod" value="1.5"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="86">
+   <properties>
+    <property name="directions" value="WE"/>
+    <property name="speedmod" value="1.5"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="87">
+   <properties>
+    <property name="directions" value="NS"/>
+    <property name="speedmod" value="1.5"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="88">
+   <properties>
+    <property name="directions" value="DB"/>
+    <property name="speedmod" value="1.5"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="89">
+   <properties>
+    <property name="directions" value="AC"/>
+    <property name="speedmod" value="1.5"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="90">
+   <properties>
+    <property name="directions" value="NC"/>
+    <property name="nodes" value="0.5,0.5;"/>
+    <property name="speedmod" value="1.5"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="91">
+   <properties>
+    <property name="directions" value="ND"/>
+    <property name="nodes" value="0.5,0.5;"/>
+    <property name="speedmod" value="1.5"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="92">
+   <properties>
+    <property name="directions" value="SB"/>
+    <property name="nodes" value="0.5,0.5;"/>
+    <property name="speedmod" value="1.5"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="93">
+   <properties>
+    <property name="directions" value="SA"/>
+    <property name="nodes" value="0.5,0.5;"/>
+    <property name="speedmod" value="1.5"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="94">
+   <properties>
+    <property name="directions" value="DE"/>
+    <property name="nodes" value="0.5,0.5;"/>
+    <property name="speedmod" value="1.5"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="95">
+   <properties>
+    <property name="directions" value="CW"/>
+    <property name="nodes" value="0.5,0.5;"/>
+    <property name="speedmod" value="1.5"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="96">
+   <properties>
+    <property name="directions" value="AE"/>
+    <property name="nodes" value="0.5,0.5;"/>
+    <property name="speedmod" value="1.5"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="97">
+   <properties>
+    <property name="directions" value="WB"/>
+    <property name="nodes" value="0.5,0.5;"/>
+    <property name="speedmod" value="1.5"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="98">
+   <properties>
+    <property name="directions" value="AC;DB"/>
+    <property name="speedmod" value="1.5"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="99">
+   <properties>
+    <property name="directions" value="NS;WE"/>
+    <property name="speedmod" value="1.5"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="100">
+   <properties>
+    <property name="directions" value="NS;WE"/>
+    <property name="speedmod" value="1.5"/>
+    <property name="tunneldir" value="NS"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="101">
+   <properties>
+    <property name="directions" value="NS;WE"/>
+    <property name="speedmod" value="1.5"/>
+    <property name="tunneldir" value="WE"/>
+    <property name="mined" value="N"/>
+    <property name="damaged" value="N"/>
+   </properties>
+  </tile>
+  <tile id="296">
+   <properties>
+    <property name="event" value="city"/>
+   </properties>
+  </tile>
+  <tile id="297">
+   <properties>
+    <property name="event" value="city"/>
+   </properties>
+  </tile>
+  <tile id="298">
+   <properties>
+    <property name="event" value="city"/>
+   </properties>
+  </tile>
+  <tile id="299">
+   <properties>
+    <property name="event" value="city"/>
+   </properties>
+  </tile>
+  <tile id="300">
+   <properties>
+    <property name="event" value="city"/>
+   </properties>
+  </tile>
+  <tile id="301">
+   <properties>
+    <property name="event" value="city"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="combat" width="144" height="10">
+  <data encoding="base64">
+    AwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAA
+  </data>
+ </layer>
+</map>

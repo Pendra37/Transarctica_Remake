@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="left-up" width="5" height="5" tilewidth="64" tileheight="64" nextobjectid="8">
+ <tileset firstgid="1" name="atlas_demo" tilewidth="64" tileheight="64" tilecount="16">
+  <image source="atlas_demo.png" width="256" height="256"/>
+  <tile id="1">
+   <properties>
+    <property name="event" value="city"/>
+   </properties>
+  </tile>
+  <tile id="2">
+   <properties>
+    <property name="directions" value="NS"/>
+   </properties>
+  </tile>
+  <tile id="3">
+   <properties>
+    <property name="directions" value="EW"/>
+   </properties>
+  </tile>
+  <tile id="4">
+   <properties>
+    <property name="directions" value="W"/>
+    <property name="nodes" value="0.25,0.5;"/>
+   </properties>
+  </tile>
+  <tile id="5">
+   <properties>
+    <property name="directions" value="N"/>
+    <property name="nodes" value="0.5,0.25;"/>
+   </properties>
+  </tile>
+  <tile id="6">
+   <properties>
+    <property name="directions" value="E"/>
+    <property name="nodes" value="0.75,0.5;"/>
+   </properties>
+  </tile>
+  <tile id="7">
+   <properties>
+    <property name="directions" value="S"/>
+    <property name="nodes" value="0.5,0.75;"/>
+   </properties>
+  </tile>
+  <tile id="8">
+   <properties>
+    <property name="directions" value="SNE"/>
+    <property name="nodes" value="0.5,0.5;"/>
+    <property name="switch" value="off"/>
+   </properties>
+  </tile>
+  <tile id="9">
+   <properties>
+    <property name="directions" value="SNW"/>
+    <property name="nodes" value="0.5,0.5;"/>
+    <property name="switch" value="off"/>
+   </properties>
+  </tile>
+  <tile id="10">
+   <properties>
+    <property name="directions" value="EWS"/>
+    <property name="nodes" value="0.5,0.5;"/>
+    <property name="switch" value="off"/>
+   </properties>
+  </tile>
+  <tile id="11">
+   <properties>
+    <property name="directions" value="WES"/>
+    <property name="nodes" value="0.5,0.5;"/>
+    <property name="switch" value="off"/>
+   </properties>
+  </tile>
+  <tile id="12">
+   <properties>
+    <property name="directions" value="NSE"/>
+    <property name="nodes" value="0.5,0.5;"/>
+    <property name="switch" value="off"/>
+   </properties>
+  </tile>
+  <tile id="13">
+   <properties>
+    <property name="directions" value="NSW"/>
+    <property name="nodes" value="0.5,0.5;"/>
+    <property name="switch" value="off"/>
+   </properties>
+  </tile>
+  <tile id="14">
+   <properties>
+    <property name="directions" value="EWN"/>
+    <property name="nodes" value="0.5,0.5;"/>
+    <property name="switch" value="off"/>
+   </properties>
+  </tile>
+  <tile id="15">
+   <properties>
+    <property name="directions" value="WEN"/>
+    <property name="nodes" value="0.5,0.5;"/>
+    <property name="switch" value="off"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="rails" width="5" height="5" opacity="0.9">
+  <data encoding="base64">
+   AQAAAAcAAAAMAAAABQAAAAIAAAAHAAAACwAAAA8AAAAMAAAABQAAAAIAAAADAAAAAQAAAAMAAAABAAAAAgAAAA0AAAAEAAAADgAAAAEAAAACAAAABgAAAAEAAAAGAAAAAQAAAA==
+  </data>
+ </layer>
+ <layer name="hidden rails" width="5" height="5">
+  <data encoding="base64">
+   AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  </data>
+ </layer>
+ <layer name="objects" width="5" height="5">
+  <data encoding="base64">
+   AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  </data>
+ </layer>
+ <layer name="hidden objects" width="5" height="5">
+  <data encoding="base64">
+   AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  </data>
+ </layer>
+</map>

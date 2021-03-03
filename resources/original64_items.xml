@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+  <item name="Grain">
+    <screen_name>Grain</screen_name>
+    <net_weight>1</net_weight>
+    <storage>goods</storage>
+    <special>Fertilizers | Dirt</special>
+    <CQCV>0</CQCV>
+    <LRCV>0</LRCV>
+    <HuntV>0</HuntV>
+    <BuildV>0</BuildV>
+    <display_image>grain</display_image>
+    <desc>Grain</desc>
+    <supply>agri</supply>
+    <market>commerce</market>
+    <avg_price>10</avg_price>
+  </item>
+  <item name="Vegetables">
+    <screen_name>Vegetables</screen_name>
+    <net_weight>1</net_weight>
+    <storage>plants</storage>
+    <special>Fertilizers | Dirt</special>
+    <CQCV>0</CQCV>
+    <LRCV>0</LRCV>
+    <HuntV>0</HuntV>
+    <BuildV>0</BuildV>
+    <display_image>vegetables</display_image>
+    <desc>Vegetables</desc>
+    <supply>agri</supply>
+    <market>commerce</market>
+    <avg_price>15</avg_price>
+  </item>
+  <item name="Meat">
+    <screen_name>Meat</screen_name>
+    <net_weight>1</net_weight>
+    <storage>perishable</storage>
+    <special>Grain | Medicines</special>
+    <CQCV>0</CQCV>
+    <LRCV>0</LRCV>
+    <HuntV>0</HuntV>
+    <BuildV>0</BuildV>
+    <display_image>meat</display_image>
+    <desc>Meat</desc>
+    <supply>agri</supply>
+    <market>commerce</market>
+    <avg_price>20</avg_price>
+  </item>
+  <item name="Fish">
+    <screen_name>Fish</screen_name>
+    <net_weight>1</net_weight>
+    <storage>perishable</storage>
+    <special>Grain | Medicines</special>
+    <CQCV>0</CQCV>
+    <LRCV>0</LRCV>
+    <HuntV>0</HuntV>
+    <BuildV>0</BuildV>
+    <display_image>fish</display_image>
+    <desc>Fish</desc>
+    <supply>agri</supply>
+    <market>commerce</market>
+    <avg_price>20</avg_price>
+  </item>
+  <item name="Fruits">
+    <screen_name>Fruits</screen_name>
+    <net_weight>1</net_weight>
+    <storage>plants</storage>
+    <special>Fertilizers | Dirt</special>
+    <CQCV>0</CQCV>
+    <LRCV>0</LRCV>
+    <HuntV>0</HuntV>
+    <BuildV>0</BuildV>
+    <display_image>fruits</display_image>
+    <desc>Fruits</desc>
+    <supply>agri</supply>
+    <market>commerce</market>
+    <avg_price>22</avg_price>
+  </item>
+  <item name="Smokes">
+    <screen_name>Smokes</screen_name>
+    <net_weight>1</net_weight>
+    <storage>plants</storage>
+    <special>Fertilizers | Dirt</special>
+    <CQCV>0</CQCV>
+    <LRCV>0</LRCV>
+    <HuntV>0</HuntV>
+    <BuildV>0</BuildV>
+    <display_image>smokes</display_image>
+    <desc>Smokes</desc>
+    <supply>agri</supply>
+    <market>commerce</market>
+    <avg_price>25</avg_price>
+  </item>
+  <item name="Tea and Coffee">
+    <screen_name>Tea and Coffee</screen_name>
+    <net_weight>1</net_weight>
+    <storage>plants</storage>
+    <special>Fertilizers | Dirt</special>
+    <CQCV>0</CQCV>
+    <LRCV>0</LRCV>
+    <HuntV>0</HuntV>
+    <BuildV>0</BuildV>
+    <display_image>tea_and_coffee</display_image>
+    <desc>Tea and Coffee</desc>
+    <supply>agri</supply>
+    <market>commerce</market>
+    <avg_price>25</avg_price>
+  </item>
+  <item name="MRE">
+    <screen_name>MRE</screen_name>
+    <net_weight>1</net_weight>
+    <storage>goods</storage>
+    <special>Grain/Vegetables+Meat/Fish+Seasoning | Machinery</special>
+    <CQCV>0</CQCV>
+    <LRCV>0</LRCV>
+    <HuntV>0</HuntV>
+    <BuildV>0</BuildV>
+    <display_image>mre</display_image>
+    <desc>MRE</desc>
+    <supply>lowtech</supply>
+    <market>commerce</market>
+    <avg_price>30</avg_price>
+  </item>
+  <item name="Metals">
+    <screen_name>Metals</screen_name>
+    <net_weight>1</net_weight>
+    <storage>goods</storage>
+    <special> | Mining equipment</special>
+    <CQCV>0</CQCV>
+    <LRCV>0</LRCV>
+    <HuntV>0</HuntV>
+    <BuildV>0</BuildV>
+    <display_image>metals</display_image>
+    <desc>Metals</desc>
+    <supply>resources</supply>
+    <market>commerce</market>
+    <avg_price>10</avg_price>
+  </item>
+  <item name="Wood">
+    <screen_name>Wood</screen_name>
+    <net_weight>1</net_weight>
+    <storage>goods</storage>
+    <special>Gasoline</special>
+    <CQCV>0</CQCV>
+    <LRCV>0</LRCV>
+    <HuntV>0</HuntV>
+    <BuildV>0</BuildV>
+    <display_image>wood</display_image>
+    <desc>Wood</desc>
+    <supply>resources</supply>
+    <market>commerce</market>
+    <avg_price>15</avg_price>
+  </item>
+  <item name="Luxuries">
+    <screen_name>Luxuries</screen_name>
+    <net_weight>1</net_weight>
+    <storage>goods</storage>
+    <special>Alcohol/Plastics/Medicines/Trade goods/Smokes | High prec tool</special>
+    <CQCV>0</CQCV>
+    <LRCV>0</LRCV>
+    <HuntV>0</HuntV>
+    <BuildV>0</BuildV>
+    <display_image>luxuries</display_image>
+    <desc>Luxuries</desc>
+    <supply>hightech</supply>
+    <market>commerce</market>
+    <avg_price>100</avg_price>
+  </item>
+  <item name="Oil">
+    <screen_name>Oil</screen_name>
+    <net_weight>1</net_weight>
+    <storage>liquids</storage>
+    <special> | Mining equipment</special>
+    <CQCV>0</CQCV>
+    <LRCV>0</LRCV>
+    <HuntV>0</HuntV>
+    <BuildV>0</BuildV>
+    <display_image>oil</display_image>
+    <desc>Oil</desc>
+    <supply>resources</supply>
+    <market>commerce</market>
+    <avg_price>20</avg_price>
+  </item>
+  <item name="Gasoline">
+    <screen_name>Gasoline</screen_name>
+    <net_weight>1</net_weight>
+    <storage>liquids</storage>
+    <special>Oil | Machinery</special>
+    <CQCV>0</CQCV>
+    <LRCV>0</LRCV>
+    <HuntV>0</HuntV>
+    <BuildV>0</BuildV>
+    <display_image>gasoline</display_image>
+    <desc>Gasoline</desc>
+    <supply>lowtech</supply>
+    <market>commerce</market>
+    <avg_price>30</avg_price>
+  </item>
+  <item name="Alcohol">
+    <screen_name>Alcohol</screen_name>
+    <net_weight>1</net_weight>
+    <storage>liquids</storage>
+    <special>Grain/Fruits | Machinery</special>
+    <CQCV>0</CQCV>
+    <LRCV>0</LRCV>
+    <HuntV>0</HuntV>
+    <BuildV>0</BuildV>
+    <display_image>alcohol</display_image>
+    <desc>Alcohol</desc>
+    <supply>lowtech</supply>
+    <market>commerce</market>
+    <avg_price>30</avg_price>
+  </item>
+  <item name="Rails">
+    <screen_name>Rails</screen_name>
+    <net_weight>1</net_weight>
+    <storage>goods</storage>
+    <special>Metals | Machinery</special>
+    <CQCV>0</CQCV>
+    <LRCV>0</LRCV>
+    <HuntV>0</HuntV>
+    <BuildV>0</BuildV>
+    <display_image>rails</display_image>
+    <desc>Rails</desc>
+    <supply>lowtech</supply>
+    <market>commerce</market>
+    <avg_price>10</avg_price>
+  </item>
+  <item name="Dirt">
+    <screen_name>Dirt</screen_name>
+    <net_weight>1</net_weight>
+    <storage>goods</storage>
+    <special>NA</special>
+    <CQCV>0</CQCV>
+    <LRCV>0</LRCV>
+    <HuntV>0</HuntV>
+    <BuildV>0</BuildV>
+    <display_image>dirt</display_image>
+    <desc>Dirt</desc>
+    <supply>resources</supply>
+    <market>commerce</market>
+    <avg_price>15</avg_price>
+  </item>
+  <item name="Anthracite">
+    <screen_name>Anthracite</screen_name>
+    <net_weight>1</net_weight>
+    <storage>coal</storage>
+    <special> | Mining equipment</special>
+    <CQCV>0</CQCV>
+    <LRCV>0</LRCV>
+    <HuntV>0</HuntV>
+    <BuildV>0</BuildV>
+    <display_image>anthracite</display_image>
+    <desc>Anthracite</desc>
+    <supply>resources</supply>
+    <market>commerce</market>
+    <avg_price>3</avg_price>
+  </item>
+  <item name="Lignite">
+    <screen_name>Lignite</screen_name>
+    <net_weight>1</net_weight>
+    <storage>coal</storage>
+    <special>NA</special>
+    <CQCV>0</CQCV>
+    <LRCV>0</LRCV>
+    <HuntV>0</HuntV>
+    <BuildV>0</BuildV>
+    <display_image>lignite</display_image>
+    <desc>Lignite</desc>
+    <supply>NA</supply>
+    <market>NA</market>
+    <avg_price>1</avg_price>
+  </item>
+  <item name="Fertilizers">
+    <screen_name>Fertilizers</screen_name>
+    <net_weight>1</net_weight>
+    <storage>goods</storage>
+    <special>Chemicals | Machinery</special>
+    <CQCV>0</CQCV>
+    <LRCV>0</LRCV>
+    <HuntV>0</HuntV>
+    <BuildV>0</BuildV>
+    <display_image>fertilizers</display_image>
+    <desc>Fertilizers</desc>
+    <supply>lowtech</supply>
+    <market>commerce</market>
+    <avg_price>15</avg_price>
+  </item>
+  <item name="Rock and gravel">
+    <screen_name>Rock and gravel</screen_name>
+    <net_weight>1</net_weight>
+    <storage>goods</storage>
+    <special> | Mining equipment</special>
+    <CQCV>0</CQCV>
+    <LRCV>0</LRCV>
+    <HuntV>0</HuntV>
+    <BuildV>0</BuildV>
+    <display_image>rock_and_gravel</display_image>
+    <desc>Rock and gravel</desc>
+    <supply>resources</supply>
+    <market>commerce</market>
+    <avg_price>20</avg_price>
+  </item>
+  <item name="Machinery">
+    <screen_name>Machinery</screen_name>
+    <net_weight>1</net_weight>
+    <storage>goods</storage>
+    <special>Metals+Plastics+Oil+Rubber+Fabrics | High prec tools</special>
+    <CQCV>0</CQCV>
+    <LRCV>0</LRCV>
+    <HuntV>0</HuntV>
+    <BuildV>0</BuildV>
+    <display_image>machinery</display_image>
+    <desc>Machinery</desc>
+    <supply>lowtech</supply>
+    <market>commerce</market>
+    <avg_price>40</avg_price>
+  </item>
+  <item name="Small arms">
+    <screen_name>Small arms</screen_name>
+    <net_weight>1</net_weight>
+    <storage>goods</storage>
+    <special>Metals+Plastics+Oil+Rubber+Fabrics | Machinery</special>
+    <CQCV>0</CQCV>
+    <LRCV>0</LRCV>
+    <HuntV>0</HuntV>
+    <BuildV>0</BuildV>
+    <display_image>small_arms</display_image>
+    <desc>Small arms</desc>
+    <supply>weapons</supply>
+    <market>commerce</market>
+    <avg_price>40</avg_price>
+  </item>
+  <item name="Heavy weapons">
+    <screen_name>Heavy weapons</screen_name>
+    <net_weight>1</net_weight>
+    <storage>goods</storage>
+    <special>Metals+Plastics+Oil+Rubber+Fabrics | High prec tools</special>
+    <CQCV>0</CQCV>
+    <LRCV>0</LRCV>
+    <HuntV>0</HuntV>
+    <BuildV>0</BuildV>
+    <display_image>heavy_weapons</display_image>
+    <desc>Heavy weapons</desc>
+    <supply>weapons</supply>
+    <market>commerce</market>
+    <avg_price>60</avg_price>
+  </item>
+  <item name="Trade goods">
+    <screen_name>Trade goods</screen_name>
+    <net_weight>1</net_weight>
+    <storage>goods</storage>
+    <special>Wood/Plastics/Metals+Clothing+Chemicals | Machinery</special>
+    <CQCV>0</CQCV>
+    <LRCV>0</LRCV>
+    <HuntV>0</HuntV>
+    <BuildV>0</BuildV>
+    <display_image>trade_goods</display_image>
+    <desc>Trade goods</desc>
+    <supply>hightech</supply>
+    <market>commerce</market>
+    <avg_price>50</avg_price>
+  </item>
+  <item name="Sand">
+    <screen_name>Sand</screen_name>
+    <net_weight>1</net_weight>
+    <storage>goods</storage>
+    <special>NA</special>
+    <CQCV>0</CQCV>
+    <LRCV>0</LRCV>
+    <HuntV>0</HuntV>
+    <BuildV>0</BuildV>
+    <display_image>sand</display_image>
+    <desc>Sand</desc>
+    <supply>resources</supply>
+    <market>commerce</market>
+    <avg_price>10</avg_price>
+  </item>
+  <item name="Plastics">
+    <screen_name>Plastics</screen_name>
+    <net_weight>1</net_weight>
+    <storage>goods</storage>
+    <special>Oil+Rubber+Chemicals | Machinery</special>
+    <CQCV>0</CQCV>
+    <LRCV>0</LRCV>
+    <HuntV>0</HuntV>
+    <BuildV>0</BuildV>
+    <display_image>plastics</display_image>
+    <desc>Plastics</desc>
+    <supply>lowtech</supply>
+    <market>commerce</market>
+    <avg_price>30</avg_price>
+  </item>
+  <item name="Natural gas">
+    <screen_name>Natural gas</screen_name>
+    <net_weight>1</net_weight>
+    <storage>liquids</storage>
+    <special> | Mining equipment</special>
+    <CQCV>0</CQCV>
+    <LRCV>0</LRCV>
+    <HuntV>0</HuntV>
+    <BuildV>0</BuildV>
+    <display_image>natural_gas</display_image>
+    <desc>Natural gas</desc>
+    <supply>resources</supply>
+    <market>commerce</market>
+    <avg_price>25</avg_price>
+  </item>
+  <item name="Rubber">
+    <screen_name>Rubber</screen_name>
+    <net_weight>1</net_weight>
+    <storage>goods</storage>
+    <special>Fertilizers | Dirt</special>
+    <CQCV>0</CQCV>
+    <LRCV>0</LRCV>
+    <HuntV>0</HuntV>
+    <BuildV>0</BuildV>
+    <display_image>rubber</display_image>
+    <desc>Rubber</desc>
+    <supply>agri</supply>
+    <market>commerce</market>
+    <avg_price>30</avg_price>
+  </item>
+  <item name="Furs">
+    <screen_name>Furs</screen_name>
+    <net_weight>1</net_weight>
+    <storage>goods</storage>
+    <special>Small arms+Gasoline+MRE</special>
+    <CQCV>0</CQCV>
+    <LRCV>0</LRCV>
+    <HuntV>0</HuntV>
+    <BuildV>0</BuildV>
+    <display_image>furs</display_image>
+    <desc>Furs</desc>
+    <supply>agri</supply>
+    <market>commerce</market>
+    <avg_price>15</avg_price>
+  </item>
+  <item name="Fabrics">
+    <screen_name>Fabrics</screen_name>
+    <net_weight>1</net_weight>
+    <storage>goods</storage>
+    <special>Plastics | Machinery</special>
+    <CQCV>0</CQCV>
+    <LRCV>0</LRCV>
+    <HuntV>0</HuntV>
+    <BuildV>0</BuildV>
+    <display_image>fabrics</display_image>
+    <desc>Fabrics</desc>
+    <supply>lowtech</supply>
+    <market>commerce</market>
+    <avg_price>20</avg_price>
+  </item>
+  <item name="Explosives">
+    <screen_name>Explosives</screen_name>
+    <net_weight>1</net_weight>
+    <storage>goods</storage>
+    <special>Chemicals | High prec tools</special>
+    <CQCV>0</CQCV>
+    <LRCV>0</LRCV>
+    <HuntV>0</HuntV>
+    <BuildV>0</BuildV>
+    <display_image>explosives</display_image>
+    <desc>Explosives</desc>
+    <supply>weapons</supply>
+    <market>commerce</market>
+    <avg_price>40</avg_price>
+  </item>
+  <item name="High prec tools">
+    <screen_name>High prec tools</screen_name>
+    <net_weight>1</net_weight>
+    <storage>goods</storage>
+    <special>Metals+Plastics+Oil+Rubber+Fabrics+Electronics+Chemicals | High prec tools</special>
+    <CQCV>0</CQCV>
+    <LRCV>0</LRCV>
+    <HuntV>0</HuntV>
+    <BuildV>0</BuildV>
+    <display_image>high_prec_tools</display_image>
+    <desc>High prec tools</desc>
+    <supply>hightech</supply>
+    <market>commerce</market>
+    <avg_price>70</avg_price>
+  </item>
+  <item name="Seasoning">
+    <screen_name>Seasoning</screen_name>
+    <net_weight>1</net_weight>
+    <storage>goods</storage>
+    <special>Fertilizers | Dirt</special>
+    <CQCV>0</CQCV>
+    <LRCV>0</LRCV>
+    <HuntV>0</HuntV>
+    <BuildV>0</BuildV>
+    <display_image>seasoning</display_image>
+    <desc>Seasoning</desc>
+    <supply>agri</supply>
+    <market>commerce</market>
+    <avg_price>50</avg_price>
+  </item>
+  <item name="Chemicals">
+    <screen_name>Chemicals</screen_name>
+    <net_weight>1</net_weight>
+    <storage>liquids</storage>
+    <special>Wood/Oil/Rubber/Natural gas | Machinery</special>
+    <CQCV>0</CQCV>
+    <LRCV>0</LRCV>
+    <HuntV>0</HuntV>
+    <BuildV>0</BuildV>
+    <display_image>chemicals</display_image>
+    <desc>Chemicals</desc>
+    <supply>lowtech</supply>
+    <market>commerce</market>
+    <avg_price>30</avg_price>
+  </item>
+  <item name="Electronics">
+    <screen_name>Electronics</screen_name>
+    <net_weight>1</net_weight>
+    <storage>goods</storage>
+    <special>Sand+Chemicals+Plastics | High prec tools</special>
+    <CQCV>0</CQCV>
+    <LRCV>0</LRCV>
+    <HuntV>0</HuntV>
+    <BuildV>0</BuildV>
+    <display_image>electronics</display_image>
+    <desc>Electronics</desc>
+    <supply>hightech</supply>
+    <market>commerce</market>
+    <avg_price>45</avg_price>
+  </item>
+  <item name="Spare parts">
+    <screen_name>Spare parts</screen_name>
+    <net_weight>1</net_weight>
+    <storage>goods</storage>
+    <special>Metals+Plastics/Wood+Oil+Rubber+Fabrics | Machinery</special>
+    <CQCV>0</CQCV>
+    <LRCV>0</LRCV>
+    <HuntV>0</HuntV>
+    <BuildV>0</BuildV>
+    <display_image>spare_parts</display_image>
+    <desc>Spare parts</desc>
+    <supply>lowtech</supply>
+    <market>commerce</market>
+    <avg_price>40</avg_price>
+  </item>
+  <item name="Shells">
+    <screen_name>Shells</screen_name>
+    <net_weight>1</net_weight>
+    <storage>goods</storage>
+    <special>Metals+Chemicals+Explosives+Fabrics | High prec tools</special>
+    <CQCV>0</CQCV>
+    <LRCV>0</LRCV>
+    <HuntV>0</HuntV>
+    <BuildV>0</BuildV>
+    <display_image>shells</display_image>
+    <desc>Shells</desc>
+    <supply>weapons</supply>
+    <market>commerce</market>
+    <avg_price>25</avg_price>
+  </item>
+  <item name="Ammo belts">
+    <screen_name>Ammo belts</screen_name>
+    <net_weight>1</net_weight>
+    <storage>goods</storage>
+    <special>Metals+Chemicals+Explosives+Fabrics | High prec tools</special>
+    <CQCV>0</CQCV>
+    <LRCV>0</LRCV>
+    <HuntV>0</HuntV>
+    <BuildV>0</BuildV>
+    <display_image>ammo_belts</display_image>
+    <desc>Ammo belts</desc>
+    <supply>weapons</supply>
+    <market>commerce</market>
+    <avg_price>25</avg_price>
+  </item>
+  <item name="Missiles">
+    <screen_name>Missiles</screen_name>
+    <net_weight>1</net_weight>
+    <storage>goods</storage>
+    <special>Metals+Plastics+Oil+Rubber+Natural gas+Gasoline+Fabrics+Electronics | High prec tools</special>
+    <CQCV>0</CQCV>
+    <LRCV>0</LRCV>
+    <HuntV>0</HuntV>
+    <BuildV>0</BuildV>
+    <display_image>missiles</display_image>
+    <desc>Missiles</desc>
+    <supply>weapons</supply>
+    <market>commerce</market>
+    <avg_price>300</avg_price>
+  </item>
+  <item name="Rail cars">
+    <screen_name>Rail cars</screen_name>
+    <net_weight>1</net_weight>
+    <storage>goods</storage>
+    <special>Metals+Plastics/Wood+Oil+Wood | Machinery</special>
+    <CQCV>0</CQCV>
+    <LRCV>0</LRCV>
+    <HuntV>0</HuntV>
+    <BuildV>0</BuildV>
+    <display_image>rail_cars</display_image>
+    <desc>Rail cars</desc>
+    <supply>lowtech</supply>
+    <market>commerce</market>
+    <avg_price>100</avg_price>
+  </item>
+  <item name="Vehicles">
+    <screen_name>Vehicles</screen_name>
+    <net_weight>1</net_weight>
+    <storage>goods</storage>
+    <special>Metals+Plastics+Oil+Rubber+Natural gas+Gasoline+Fabrics+Electronics | High prec tools</special>
+    <CQCV>0</CQCV>
+    <LRCV>0</LRCV>
+    <HuntV>0</HuntV>
+    <BuildV>0</BuildV>
+    <display_image>vehicles</display_image>
+    <desc>Vehicles</desc>
+    <supply>hightech</supply>
+    <market>commerce</market>
+    <avg_price>100</avg_price>
+  </item>
+  <item name="Mining equipment">
+    <screen_name>Mining equipment</screen_name>
+    <net_weight>1</net_weight>
+    <storage>goods</storage>
+    <special>Metals+Wood+Rubber | Machinery</special>
+    <CQCV>0</CQCV>
+    <LRCV>0</LRCV>
+    <HuntV>0</HuntV>
+    <BuildV>0</BuildV>
+    <display_image>mining_equipment</display_image>
+    <desc>Mining equipment</desc>
+    <supply>lowtech</supply>
+    <market>commerce</market>
+    <avg_price>50</avg_price>
+  </item>
+  <item name="Mammoth Prime">
+    <screen_name>Mammoth Prime</screen_name>
+    <net_weight>1</net_weight>
+    <storage>mammoths</storage>
+    <special>15</special>
+    <CQCV>0</CQCV>
+    <LRCV>15</LRCV>
+    <HuntV>15</HuntV>
+    <BuildV>10</BuildV>
+    <display_image>mammoth</display_image>
+    <desc>Mammoth Prime</desc>
+    <supply>mammoth</supply>
+    <market>mammoth</market>
+    <avg_price>70</avg_price>
+  </item>
+  <item name="Mammoth Alpha">
+    <screen_name>Mammoth Alpha</screen_name>
+    <net_weight>1</net_weight>
+    <storage>mammoths</storage>
+    <special>13</special>
+    <CQCV>0</CQCV>
+    <LRCV>13</LRCV>
+    <HuntV>13</HuntV>
+    <BuildV>15</BuildV>
+    <display_image>mammoth</display_image>
+    <desc>Mammoth Alpha</desc>
+    <supply>mammoth</supply>
+    <market>mammoth</market>
+    <avg_price>50</avg_price>
+  </item>
+  <item name="Mammoth Beta">
+    <screen_name>Mammoth Beta</screen_name>
+    <net_weight>1</net_weight>
+    <storage>mammoths</storage>
+    <special>10</special>
+    <CQCV>0</CQCV>
+    <LRCV>10</LRCV>
+    <HuntV>10</HuntV>
+    <BuildV>10</BuildV>
+    <display_image>mammoth</display_image>
+    <desc>Mammoth Beta</desc>
+    <supply>mammoth</supply>
+    <market>mammoth</market>
+    <avg_price>40</avg_price>
+  </item>
+  <item name="Soldier Infantry">
+    <screen_name>Soldier Infantry</screen_name>
+    <net_weight>1</net_weight>
+    <storage>soldiers</storage>
+    <special>3</special>
+    <CQCV>3</CQCV>
+    <LRCV>3</LRCV>
+    <HuntV>5</HuntV>
+    <BuildV>1</BuildV>
+    <display_image>soldier</display_image>
+    <desc>Soldier Infantry</desc>
+    <supply>barracks</supply>
+    <market>barracks</market>
+    <avg_price>25</avg_price>
+  </item>
+  <item name="Soldier Dragoon">
+    <screen_name>Soldier Dragoon</screen_name>
+    <net_weight>1</net_weight>
+    <storage>soldiers</storage>
+    <special>4</special>
+    <CQCV>4</CQCV>
+    <LRCV>4</LRCV>
+    <HuntV>7</HuntV>
+    <BuildV>2</BuildV>
+    <display_image>soldier</display_image>
+    <desc>Soldier Dragoon</desc>
+    <supply>barracks</supply>
+    <market>barracks</market>
+    <avg_price>40</avg_price>
+  </item>
+  <item name="Gun Crew">
+    <screen_name>Gun Crew</screen_name>
+    <net_weight>1</net_weight>
+    <storage>soldiers</storage>
+    <special>2</special>
+    <CQCV>2</CQCV>
+    <LRCV>2</LRCV>
+    <HuntV>2</HuntV>
+    <BuildV>1</BuildV>
+    <display_image>soldier</display_image>
+    <desc>Gun Crew</desc>
+    <supply>barracks</supply>
+    <market>barracks</market>
+    <avg_price>50</avg_price>
+  </item>
+  <item name="MG Crew">
+    <screen_name>MG Crew</screen_name>
+    <net_weight>1</net_weight>
+    <storage>soldiers</storage>
+    <special>2</special>
+    <CQCV>2</CQCV>
+    <LRCV>2</LRCV>
+    <HuntV>2</HuntV>
+    <BuildV>1</BuildV>
+    <display_image>soldier</display_image>
+    <desc>MG Crew</desc>
+    <supply>barracks</supply>
+    <market>barracks</market>
+    <avg_price>45</avg_price>
+  </item>
+  <item name="Spy">
+    <screen_name>Spy</screen_name>
+    <net_weight>1</net_weight>
+    <storage>soldiers</storage>
+    <special>1</special>
+    <CQCV>2</CQCV>
+    <LRCV>1</LRCV>
+    <HuntV>1</HuntV>
+    <BuildV>0</BuildV>
+    <display_image>soldier</display_image>
+    <desc>Spy</desc>
+    <supply>barracks</supply>
+    <market>barracks</market>
+    <avg_price>90</avg_price>
+  </item>
+  <item name="Strong Slave">
+    <screen_name>Strong Slave</screen_name>
+    <net_weight>1</net_weight>
+    <storage>slaves</storage>
+    <special>NA</special>
+    <display_image>slave</display_image>
+    <desc>Strong Slave</desc>
+    <CQCV>2</CQCV>
+    <LRCV>0</LRCV>
+    <HuntV>3</HuntV>
+    <BuildV>6</BuildV>
+    <supply>slave</supply>
+    <market>slave</market>
+    <avg_price>25</avg_price>
+  </item>
+  <item name="Weak Slave">
+    <screen_name>Weak Slave</screen_name>
+    <net_weight>1</net_weight>
+    <storage>slaves</storage>
+    <special>NA</special>
+    <display_image>slave</display_image>
+    <desc>Weak Slave</desc>
+    <CQCV>1</CQCV>
+    <LRCV>0</LRCV>
+    <HuntV>3</HuntV>
+    <BuildV>4</BuildV>
+    <supply>slave</supply>
+    <market>slave</market>
+    <avg_price>10</avg_price>
+  </item>
+</items>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<language id='EN'>
+    <!-- Phrases are indexed by letter -->
+    <!-- L -->
+    <entry id="lignite">lignite</entry>
+    <!-- M -->
+    <entry id="main menu">main menu</entry>
+    <!-- O -->
+    <entry id="options">options</entry>
+    <!-- S -->
+    <entry id="speed">speed</entry>
+    <!-- Long entries -->
+    <entry id="long 0">Lorem ipsum</entry>
+    <entry id="long 1">dolor sit amet</entry>
+</language>

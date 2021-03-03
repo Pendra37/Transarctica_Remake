@@ -1,0 +1,313 @@
+<game_save>
+  <game_object name="Transarctica">
+    <timestamp>1.8835519764178228</timestamp>
+    <direction>N</direction>
+    <hpz>160</hpz>
+    <engine_temp>600</engine_temp>
+    <boiler_pressure>23.880000000000614</boiler_pressure>
+    <current_position_X>77</current_position_X>
+    <current_position_Y>7</current_position_Y>
+    <nr_of_wagons>11</nr_of_wagons>
+      <wagon_0>22</wagon_0>
+      <wagon_1>4</wagon_1>
+      <wagon_2>95</wagon_2>
+      <wagon_3>97</wagon_3>
+      <wagon_4>31</wagon_4>
+      <wagon_5>1</wagon_5>
+      <wagon_6>14</wagon_6>
+      <wagon_7>12</wagon_7>
+      <wagon_8>55</wagon_8>
+      <wagon_9>58</wagon_9>
+      <wagon_10>9</wagon_10>
+      <wagon_11>6</wagon_11>
+      <wagon_12 />
+      <wagon_13 />
+      <wagon_14 />
+      <wagon_15 />
+      <wagon_16 />
+      <wagon_17 />
+      <wagon_18 />
+      <wagon_19 />
+      <wagon_20 />
+      <wagon_21 />
+      <wagon_22 />
+      <wagon_23 />
+      <wagon_24 />
+      <wagon_25 />
+      <wagon_26 />
+      <wagon_27 />
+      <wagon_28 />
+      <wagon_29 />
+      <wagon_30 />
+      <wagon_31 />
+      <wagon_32 />
+      <wagon_33 />
+      <wagon_34 />
+      <wagon_35 />
+      <wagon_36 />
+      <wagon_37 />
+      <wagon_38 />
+      <wagon_39 />
+      <wagon_40 />
+      <wagon_41 />
+      <wagon_42 />
+      <wagon_43 />
+      <wagon_44 />
+      <wagon_45 />
+      <wagon_46 />
+      <wagon_47 />
+      <wagon_48 />
+      <wagon_49 />
+      <wagon_50 />
+      <wagon_51 />
+      <wagon_52 />
+      <wagon_53 />
+      <wagon_54 />
+      <wagon_55 />
+      <wagon_56 />
+      <wagon_57 />
+      <wagon_58 />
+      <wagon_59 />
+      <wagon_60 />
+      <wagon_61 />
+      <wagon_62 />
+      <wagon_63 />
+      <wagon_64 />
+      <wagon_65 />
+      <wagon_66 />
+      <wagon_67 />
+      <wagon_68 />
+      <wagon_69 />
+      <wagon_70 />
+      <wagon_71 />
+      <wagon_72 />
+      <wagon_73 />
+      <wagon_74 />
+      <wagon_75 />
+      <wagon_76 />
+      <wagon_77 />
+      <wagon_78 />
+      <wagon_79 />
+      <wagon_80 />
+      <wagon_81 />
+      <wagon_82 />
+      <wagon_83 />
+      <wagon_84 />
+      <wagon_85 />
+      <wagon_86 />
+      <wagon_87 />
+      <wagon_88 />
+      <wagon_89 />
+      <wagon_90 />
+      <wagon_91 />
+      <wagon_92 />
+      <wagon_93 />
+      <wagon_94 />
+      <wagon_95 />
+      <wagon_96 />
+      <wagon_97 />
+      <wagon_98 />
+      <wagon_99 />
+    <nr_of_items>9</nr_of_items>
+      <stock_item_0>{'loss': 0, 'hold': 0, 'gain': 0, 'value': 0}</stock_item_0>
+      <stock_item_1>{'loss': 0, 'hold': 0, 'gain': 0, 'value': 0}</stock_item_1>
+      <stock_item_2>{'loss': 0, 'hold': 0, 'gain': 0, 'value': 0}</stock_item_2>
+      <stock_item_3>{'loss': 0, 'hold': 0, 'gain': 0, 'value': 0}</stock_item_3>
+      <stock_item_4>{'loss': 0, 'hold': 0, 'gain': 0, 'value': 0}</stock_item_4>
+      <stock_item_5>{'loss': 0, 'hold': 0, 'gain': 0, 'value': 0}</stock_item_5>
+      <stock_item_6>{'loss': 0, 'hold': 0, 'gain': 0, 'value': 0}</stock_item_6>
+      <stock_item_7>{'loss': 0, 'hold': 0, 'gain': 0, 'value': 0}</stock_item_7>
+      <stock_item_8>{'loss': 0, 'hold': 2, 'gain': 2, 'value': 0.0}</stock_item_8>
+      <stock_item_9>{'loss': 0, 'hold': 0, 'gain': 0, 'value': 0}</stock_item_9>
+      <stock_item_10>{'loss': 0, 'hold': 0, 'gain': 0, 'value': 0}</stock_item_10>
+      <stock_item_11>{'loss': 0, 'hold': 0, 'gain': 0, 'value': 0}</stock_item_11>
+      <stock_item_12>{'loss': 0, 'hold': 0, 'gain': 0, 'value': 0}</stock_item_12>
+      <stock_item_13>{'loss': 0, 'hold': 0, 'gain': 0, 'value': 0}</stock_item_13>
+      <stock_item_14>{'loss': 0, 'hold': 10, 'gain': 10, 'value': 0.0}</stock_item_14>
+      <stock_item_15>{'loss': 0, 'hold': 0, 'gain': 0, 'value': 0}</stock_item_15>
+      <stock_item_16>{'loss': 0, 'hold': 2095, 'gain': 167, 'value': 2.7608591885441527}</stock_item_16>
+      <stock_item_17>{'loss': 0, 'hold': 2139, 'gain': 139, 'value': 0.9350163627863487}</stock_item_17>
+      <stock_item_18>{'loss': 0, 'hold': 3, 'gain': 3, 'value': 0.0}</stock_item_18>
+      <stock_item_19>{'loss': 0, 'hold': 0, 'gain': 0, 'value': 0}</stock_item_19>
+      <stock_item_20>{'loss': 0, 'hold': 0, 'gain': 0, 'value': 0}</stock_item_20>
+      <stock_item_21>{'loss': 0, 'hold': 0, 'gain': 0, 'value': 0}</stock_item_21>
+      <stock_item_22>{'loss': 0, 'hold': 0, 'gain': 0, 'value': 0}</stock_item_22>
+      <stock_item_23>{'loss': 0, 'hold': 0, 'gain': 0, 'value': 0}</stock_item_23>
+      <stock_item_24>{'loss': 0, 'hold': 0, 'gain': 0, 'value': 0}</stock_item_24>
+      <stock_item_25>{'loss': 0, 'hold': 0, 'gain': 0, 'value': 0}</stock_item_25>
+      <stock_item_26>{'loss': 0, 'hold': 0, 'gain': 0, 'value': 0}</stock_item_26>
+      <stock_item_27>{'loss': 0, 'hold': 0, 'gain': 0, 'value': 0}</stock_item_27>
+      <stock_item_28>{'loss': 0, 'hold': 0, 'gain': 0, 'value': 0}</stock_item_28>
+      <stock_item_29>{'loss': 0, 'hold': 0, 'gain': 0, 'value': 0}</stock_item_29>
+      <stock_item_30>{'loss': 0, 'hold': 0, 'gain': 0, 'value': 0}</stock_item_30>
+      <stock_item_31>{'loss': 0, 'hold': 0, 'gain': 0, 'value': 0}</stock_item_31>
+      <stock_item_32>{'loss': 0, 'hold': 0, 'gain': 0, 'value': 0}</stock_item_32>
+      <stock_item_33>{'loss': 0, 'hold': 0, 'gain': 0, 'value': 0}</stock_item_33>
+      <stock_item_34>{'loss': 0, 'hold': 0, 'gain': 0, 'value': 0}</stock_item_34>
+      <stock_item_35>{'loss': 0, 'hold': 0, 'gain': 0, 'value': 0}</stock_item_35>
+      <stock_item_36>{'loss': 0, 'hold': 0, 'gain': 0, 'value': 0}</stock_item_36>
+      <stock_item_37>{'loss': 0, 'hold': 0, 'gain': 0, 'value': 0}</stock_item_37>
+      <stock_item_38>{'loss': 0, 'hold': 0, 'gain': 0, 'value': 0}</stock_item_38>
+      <stock_item_39>{'loss': 0, 'hold': 0, 'gain': 0, 'value': 0}</stock_item_39>
+      <stock_item_40>{'loss': 0, 'hold': 0, 'gain': 0, 'value': 0}</stock_item_40>
+      <stock_item_41>{'loss': 0, 'hold': 0, 'gain': 0, 'value': 0}</stock_item_41>
+      <stock_item_42>{'loss': 0, 'hold': 0, 'gain': 0, 'value': 0}</stock_item_42>
+      <stock_item_43>{'loss': 0, 'hold': 0, 'gain': 0, 'value': 0}</stock_item_43>
+      <stock_item_44>{'loss': 0, 'hold': 0, 'gain': 0, 'value': 0}</stock_item_44>
+      <stock_item_45>{'loss': 2, 'hold': 8, 'gain': 0, 'value': 25}</stock_item_45>
+      <stock_item_46>{'loss': 0, 'hold': 0, 'gain': 0, 'value': 0}</stock_item_46>
+      <stock_item_47>{'loss': 0, 'hold': 0, 'gain': 0, 'value': 0}</stock_item_47>
+      <stock_item_48>{'loss': 0, 'hold': 0, 'gain': 0, 'value': 0}</stock_item_48>
+      <stock_item_49>{'loss': 0, 'hold': 0, 'gain': 0, 'value': 0}</stock_item_49>
+      <stock_item_50>{'loss': 0, 'hold': 0, 'gain': 0, 'value': 0}</stock_item_50>
+      <stock_item_51>{'loss': 0, 'hold': 0, 'gain': 0, 'value': 0}</stock_item_51>
+      <stock_item_52>{'value': 0, 'hold': 0, 'loss': 0}</stock_item_52>
+      <stock_item_53>{'value': 0, 'hold': 0, 'loss': 0}</stock_item_53>
+      <stock_item_54>{'value': 0, 'hold': 0, 'loss': 0}</stock_item_54>
+      <stock_item_55>{'value': 0, 'hold': 0, 'loss': 0}</stock_item_55>
+      <stock_item_56>{'value': 0, 'hold': 0, 'loss': 0}</stock_item_56>
+      <stock_item_57>{'value': 0, 'hold': 0, 'loss': 0}</stock_item_57>
+      <stock_item_58>{'value': 0, 'hold': 0, 'loss': 0}</stock_item_58>
+      <stock_item_59>{'value': 0, 'hold': 0, 'loss': 0}</stock_item_59>
+      <stock_item_60>{'value': 0, 'hold': 0, 'loss': 0}</stock_item_60>
+      <stock_item_61>{'value': 0, 'hold': 0, 'loss': 0}</stock_item_61>
+      <stock_item_62>{'value': 0, 'hold': 0, 'loss': 0}</stock_item_62>
+      <stock_item_63>{'value': 0, 'hold': 0, 'loss': 0}</stock_item_63>
+      <stock_item_64>{'value': 0, 'hold': 0, 'loss': 0}</stock_item_64>
+      <stock_item_65>{'value': 0, 'hold': 0, 'loss': 0}</stock_item_65>
+      <stock_item_66>{'value': 0, 'hold': 0, 'loss': 0}</stock_item_66>
+      <stock_item_67>{'value': 0, 'hold': 0, 'loss': 0}</stock_item_67>
+      <stock_item_68>{'value': 0, 'hold': 0, 'loss': 0}</stock_item_68>
+      <stock_item_69>{'value': 0, 'hold': 0, 'loss': 0}</stock_item_69>
+      <stock_item_70>{'value': 0, 'hold': 0, 'loss': 0}</stock_item_70>
+      <stock_item_71>{'value': 0, 'hold': 0, 'loss': 0}</stock_item_71>
+      <stock_item_72>{'value': 0, 'hold': 0, 'loss': 0}</stock_item_72>
+      <stock_item_73>{'value': 0, 'hold': 0, 'loss': 0}</stock_item_73>
+      <stock_item_74>{'value': 0, 'hold': 0, 'loss': 0}</stock_item_74>
+      <stock_item_75>{'value': 0, 'hold': 0, 'loss': 0}</stock_item_75>
+      <stock_item_76>{'value': 0, 'hold': 0, 'loss': 0}</stock_item_76>
+      <stock_item_77 />
+      <stock_item_78 />
+      <stock_item_79 />
+      <stock_item_80 />
+      <stock_item_81 />
+      <stock_item_82 />
+      <stock_item_83 />
+      <stock_item_84 />
+      <stock_item_85 />
+      <stock_item_86 />
+      <stock_item_87 />
+      <stock_item_88 />
+      <stock_item_89 />
+      <stock_item_90 />
+      <stock_item_91 />
+      <stock_item_92 />
+      <stock_item_93 />
+      <stock_item_94 />
+      <stock_item_95 />
+      <stock_item_96 />
+      <stock_item_97 />
+      <stock_item_98 />
+      <stock_item_99 />
+      <stock_item_100 />
+      <stock_item_101 />
+      <stock_item_102 />
+      <stock_item_103 />
+      <stock_item_104 />
+      <stock_item_105 />
+      <stock_item_106 />
+      <stock_item_107 />
+      <stock_item_108 />
+      <stock_item_109 />
+      <stock_item_110 />
+      <stock_item_111 />
+      <stock_item_112 />
+      <stock_item_113 />
+      <stock_item_114 />
+      <stock_item_115 />
+      <stock_item_116 />
+      <stock_item_117 />
+      <stock_item_118 />
+      <stock_item_119 />
+      <stock_item_120 />
+      <stock_item_121 />
+      <stock_item_122 />
+      <stock_item_123 />
+      <stock_item_124 />
+      <stock_item_125 />
+      <stock_item_126 />
+      <stock_item_127 />
+      <stock_item_128 />
+      <stock_item_129 />
+      <stock_item_130 />
+      <stock_item_131 />
+      <stock_item_132 />
+      <stock_item_133 />
+      <stock_item_134 />
+      <stock_item_135 />
+      <stock_item_136 />
+      <stock_item_137 />
+      <stock_item_138 />
+      <stock_item_139 />
+      <stock_item_140 />
+      <stock_item_141 />
+      <stock_item_142 />
+      <stock_item_143 />
+      <stock_item_144 />
+      <stock_item_145 />
+      <stock_item_146 />
+      <stock_item_147 />
+      <stock_item_148 />
+      <stock_item_149 />
+      <stock_item_150 />
+      <stock_item_151 />
+      <stock_item_152 />
+      <stock_item_153 />
+      <stock_item_154 />
+      <stock_item_155 />
+      <stock_item_156 />
+      <stock_item_157 />
+      <stock_item_158 />
+      <stock_item_159 />
+      <stock_item_160 />
+      <stock_item_161 />
+      <stock_item_162 />
+      <stock_item_163 />
+      <stock_item_164 />
+      <stock_item_165 />
+      <stock_item_166 />
+      <stock_item_167 />
+      <stock_item_168 />
+      <stock_item_169 />
+      <stock_item_170 />
+      <stock_item_171 />
+      <stock_item_172 />
+      <stock_item_173 />
+      <stock_item_174 />
+      <stock_item_175 />
+      <stock_item_176 />
+      <stock_item_177 />
+      <stock_item_178 />
+      <stock_item_179 />
+      <stock_item_180 />
+      <stock_item_181 />
+      <stock_item_182 />
+      <stock_item_183 />
+      <stock_item_184 />
+      <stock_item_185 />
+      <stock_item_186 />
+      <stock_item_187 />
+      <stock_item_188 />
+      <stock_item_189 />
+      <stock_item_190 />
+      <stock_item_191 />
+      <stock_item_192 />
+      <stock_item_193 />
+      <stock_item_194 />
+      <stock_item_195 />
+      <stock_item_196 />
+      <stock_item_197 />
+      <stock_item_198 />
+      <stock_item_199 />
+  </game_object>
+</game_save>
